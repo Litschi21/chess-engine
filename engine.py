@@ -3,7 +3,7 @@ import chess.polyglot
 import json
 from time import time
 
-filename = "../data/opening_book.json"
+filename = "./opening_book.json"
 
 tt = {}
 tt_quiescence = {}

@@ -1,0 +1,4578 @@
+{
+  "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1": {
+    "moves": [
+      {
+        "uci": "e2e4",
+        "san": "e4",
+        "games": 85693957,
+        "win_rate": 0.516
+      },
+      {
+        "uci": "d2d4",
+        "san": "d4",
+        "games": 56972474,
+        "win_rate": 0.526
+      },
+      {
+        "uci": "g1f3",
+        "san": "Nf3",
+        "games": 13393766,
+        "win_rate": 0.539
+      },
+      {
+        "uci": "c2c4",
+        "san": "c4",
+        "games": 10111075,
+        "win_rate": 0.531
+      },
+      {
+        "uci": "b2b3",
+        "san": "b3",
+        "games": 2242016,
+        "win_rate": 0.524
+      },
+      {
+        "uci": "g2g3",
+        "san": "g3",
+        "games": 1700559,
+        "win_rate": 0.535
+      },
+      {
+        "uci": "f2f4",
+        "san": "f4",
+        "games": 1419102,
+        "win_rate": 0.503
+      },
+      {
+        "uci": "b1c3",
+        "san": "Nc3",
+        "games": 980366,
+        "win_rate": 0.528
+      },
+      {
+        "uci": "e2e3",
+        "san": "e3",
+        "games": 913296,
+        "win_rate": 0.494
+      },
+      {
+        "uci": "d2d3",
+        "san": "d3",
+        "games": 671032,
+        "win_rate": 0.503
+      },
+      {
+        "uci": "b2b4",
+        "san": "b4",
+        "games": 439611,
+        "win_rate": 0.496
+      },
+      {
+        "uci": "c2c3",
+        "san": "c3",
+        "games": 275900,
+        "win_rate": 0.496
+      }
+    ],
+    "move_sequence": ""
+  },
+  "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1": {
+    "moves": [
+      {
+        "uci": "c7c5",
+        "san": "c5",
+        "games": 30695983,
+        "win_rate": 0.515
+      },
+      {
+        "uci": "e7e5",
+        "san": "e5",
+        "games": 16493780,
+        "win_rate": 0.519
+      },
+      {
+        "uci": "e7e6",
+        "san": "e6",
+        "games": 10706489,
+        "win_rate": 0.519
+      },
+      {
+        "uci": "c7c6",
+        "san": "c6",
+        "games": 10018706,
+        "win_rate": 0.519
+      },
+      {
+        "uci": "d7d5",
+        "san": "d5",
+        "games": 5026148,
+        "win_rate": 0.511
+      },
+      {
+        "uci": "d7d6",
+        "san": "d6",
+        "games": 4467385,
+        "win_rate": 0.519
+      },
+      {
+        "uci": "g7g6",
+        "san": "g6",
+        "games": 2890571,
+        "win_rate": 0.505
+      },
+      {
+        "uci": "g8f6",
+        "san": "Nf6",
+        "games": 2860520,
+        "win_rate": 0.504
+      },
+      {
+        "uci": "b8c6",
+        "san": "Nc6",
+        "games": 1382576,
+        "win_rate": 0.504
+      },
+      {
+        "uci": "b7b6",
+        "san": "b6",
+        "games": 595340,
+        "win_rate": 0.536
+      },
+      {
+        "uci": "a7a6",
+        "san": "a6",
+        "games": 215312,
+        "win_rate": 0.503
+      },
+      {
+        "uci": "f7f6",
+        "san": "f6",
+        "games": 61008,
+        "win_rate": 0.557
+      }
+    ],
+    "move_sequence": "e4"
+  },
+  "rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2": {
+    "moves": [
+      {
+        "uci": "g1f3",
+        "san": "Nf3",
+        "games": 20017914,
+        "win_rate": 0.514
+      },
+      {
+        "uci": "b1c3",
+        "san": "Nc3",
+        "games": 3992726,
+        "win_rate": 0.528
+      },
+      {
+        "uci": "c2c3",
+        "san": "c3",
+        "games": 1997392,
+        "win_rate": 0.531
+      },
+      {
+        "uci": "d2d4",
+        "san": "d4",
+        "games": 1912042,
+        "win_rate": 0.511
+      },
+      {
+        "uci": "f2f4",
+        "san": "f4",
+        "games": 512926,
+        "win_rate": 0.485
+      },
+      {
+        "uci": "b2b4",
+        "san": "b4",
+        "games": 410847,
+        "win_rate": 0.501
+      },
+      {
+        "uci": "a2a3",
+        "san": "a3",
+        "games": 303836,
+        "win_rate": 0.52
+      },
+      {
+        "uci": "f1c4",
+        "san": "Bc4",
+        "games": 268962,
+        "win_rate": 0.467
+      },
+      {
+        "uci": "d2d3",
+        "san": "d3",
+        "games": 260625,
+        "win_rate": 0.494
+      },
+      {
+        "uci": "c2c4",
+        "san": "c4",
+        "games": 244381,
+        "win_rate": 0.497
+      },
+      {
+        "uci": "b2b3",
+        "san": "b3",
+        "games": 240820,
+        "win_rate": 0.518
+      },
+      {
+        "uci": "g2g3",
+        "san": "g3",
+        "games": 210833,
+        "win_rate": 0.535
+      }
+    ],
+    "move_sequence": "e4 c5"
+  },
+  "rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2": {
+    "moves": [
+      {
+        "uci": "d7d6",
+        "san": "d6",
+        "games": 7706067,
+        "win_rate": 0.517
+      },
+      {
+        "uci": "b8c6",
+        "san": "Nc6",
+        "games": 6081164,
+        "win_rate": 0.521
+      },
+      {
+        "uci": "e7e6",
+        "san": "e6",
+        "games": 4344828,
+        "win_rate": 0.504
+      },
+      {
+        "uci": "g7g6",
+        "san": "g6",
+        "games": 1190678,
+        "win_rate": 0.506
+      },
+      {
+        "uci": "a7a6",
+        "san": "a6",
+        "games": 493416,
+        "win_rate": 0.504
+      },
+      {
+        "uci": "g8f6",
+        "san": "Nf6",
+        "games": 224686,
+        "win_rate": 0.479
+      },
+      {
+        "uci": "b7b6",
+        "san": "b6",
+        "games": 40577,
+        "win_rate": 0.512
+      },
+      {
+        "uci": "d7d5",
+        "san": "d5",
+        "games": 32052,
+        "win_rate": 0.522
+      },
+      {
+        "uci": "d8c7",
+        "san": "Qc7",
+        "games": 8526,
+        "win_rate": 0.51
+      },
+      {
+        "uci": "d8b6",
+        "san": "Qb6",
+        "games": 5678,
+        "win_rate": 0.53
+      },
+      {
+        "uci": "f7f5",
+        "san": "f5",
+        "games": 4810,
+        "win_rate": 0.506
+      },
+      {
+        "uci": "e7e5",
+        "san": "e5",
+        "games": 3981,
+        "win_rate": 0.594
+      }
+    ],
+    "move_sequence": "e4 c5 Nf3"
+  },
+  "rnbqkbnr/pp2pppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3": {
+    "moves": [
+      {
+        "uci": "d2d4",
+        "san": "d4",
+        "games": 5288685,
+        "win_rate": 0.516
+      },
+      {
+        "uci": "f1b5",
+        "san": "Bb5+",
+        "games": 982262,
+        "win_rate": 0.534
+      },
+      {
+        "uci": "c2c3",
+        "san": "c3",
+        "games": 538029,
+        "win_rate": 0.518
+      },
+      {
+        "uci": "b1c3",
+        "san": "Nc3",
+        "games": 278333,
+        "win_rate": 0.519
+      },
+      {
+        "uci": "f1c4",
+        "san": "Bc4",
+        "games": 257694,
+        "win_rate": 0.501
+      },
+      {
+        "uci": "d2d3",
+        "san": "d3",
+        "games": 93889,
+        "win_rate": 0.49
+      },
+      {
+        "uci": "c2c4",
+        "san": "c4",
+        "games": 81356,
+        "win_rate": 0.513
+      },
+      {
+        "uci": "g2g3",
+        "san": "g3",
+        "games": 67132,
+        "win_rate": 0.501
+      },
+      {
+        "uci": "b2b3",
+        "san": "b3",
+        "games": 36402,
+        "win_rate": 0.477
+      },
+      {
+        "uci": "b2b4",
+        "san": "b4",
+        "games": 33981,
+        "win_rate": 0.476
+      },
+      {
+        "uci": "f1e2",
+        "san": "Be2",
+        "games": 19530,
+        "win_rate": 0.487
+      },
+      {
+        "uci": "h2h3",
+        "san": "h3",
+        "games": 15433,
+        "win_rate": 0.481
+      }
+    ],
+    "move_sequence": "e4 c5 Nf3 d6"
+  },
+  "rnbqkbnr/pp2pppp/3p4/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3": {
+    "moves": [
+      {
+        "uci": "c5d4",
+        "san": "cxd4",
+        "games": 5206267,
+        "win_rate": 0.517
+      },
+      {
+        "uci": "g8f6",
+        "san": "Nf6",
+        "games": 82386,
+        "win_rate": 0.469
+      },
+      {
+        "uci": "c5c4",
+        "san": "c4",
+        "games": 3890,
+        "win_rate": 0.694
+      },
+      {
+        "uci": "b8c6",
+        "san": "Nc6",
+        "games": 2668,
+        "win_rate": 0.582
+      },
+      {
+        "uci": "b8d7",
+        "san": "Nd7",
+        "games": 2178,
+        "win_rate": 0.537
+      },
+      {
+        "uci": "e7e6",
+        "san": "e6",
+        "games": 824,
+        "win_rate": 0.607
+      },
+      {
+        "uci": "c8g4",
+        "san": "Bg4",
+        "games": 781,
+        "win_rate": 0.577
+      },
+      {
+        "uci": "b7b6",
+        "san": "b6",
+        "games": 606,
+        "win_rate": 0.602
+      },
+      {
+        "uci": "g7g6",
+        "san": "g6",
+        "games": 564,
+        "win_rate": 0.59
+      },
+      {
+        "uci": "a7a6",
+        "san": "a6",
+        "games": 308,
+        "win_rate": 0.558
+      },
+      {
+        "uci": "d8a5",
+        "san": "Qa5+",
+        "games": 221,
+        "win_rate": 0.516
+      },
+      {
+        "uci": "d8c7",
+        "san": "Qc7",
+        "games": 138,
+        "win_rate": 0.638
+      }
+    ],
+    "move_sequence": "e4 c5 Nf3 d6 d4"
+  },
+  "rnbqkbnr/pp2pppp/3p4/1Bp5/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 3": {
+    "moves": [
+      {
+        "uci": "c8d7",
+        "san": "Bd7",
+        "games": 518665,
+        "win_rate": 0.54
+      },
+      {
+        "uci": "b8d7",
+        "san": "Nd7",
+        "games": 382915,
+        "win_rate": 0.522
+      },
+      {
+        "uci": "b8c6",
+        "san": "Nc6",
+        "games": 79474,
+        "win_rate": 0.545
+      },
+      {
+        "uci": "d8d7",
+        "san": "Qd7",
+        "games": 916,
+        "win_rate": 0.97
+      }
+    ],
+    "move_sequence": "e4 c5 Nf3 d6 Bb5+"
+  },
+  "r1bqkbnr/pp1ppppp/2n5/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3": {
+    "moves": [
+      {
+        "uci": "d2d4",
+        "san": "d4",
+        "games": 3208840,
+        "win_rate": 0.51
+      },
+      {
+        "uci": "f1b5",
+        "san": "Bb5",
+        "games": 1529981,
+        "win_rate": 0.55
+      },
+      {
+        "uci": "c2c3",
+        "san": "c3",
+        "games": 446085,
+        "win_rate": 0.517
+      },
+      {
+        "uci": "b1c3",
+        "san": "Nc3",
+        "games": 307248,
+        "win_rate": 0.53
+      },
+      {
+        "uci": "f1c4",
+        "san": "Bc4",
+        "games": 185701,
+        "win_rate": 0.49
+      },
+      {
+        "uci": "b2b4",
+        "san": "b4",
+        "games": 105042,
+        "win_rate": 0.549
+      },
+      {
+        "uci": "d2d3",
+        "san": "d3",
+        "games": 104283,
+        "win_rate": 0.508
+      },
+      {
+        "uci": "c2c4",
+        "san": "c4",
+        "games": 68509,
+        "win_rate": 0.51
+      },
+      {
+        "uci": "g2g3",
+        "san": "g3",
+        "games": 61260,
+        "win_rate": 0.517
+      },
+      {
+        "uci": "b2b3",
+        "san": "b3",
+        "games": 34684,
+        "win_rate": 0.498
+      },
+      {
+        "uci": "f1e2",
+        "san": "Be2",
+        "games": 12967,
+        "win_rate": 0.463
+      },
+      {
+        "uci": "a2a3",
+        "san": "a3",
+        "games": 6135,
+        "win_rate": 0.487
+      }
+    ],
+    "move_sequence": "e4 c5 Nf3 Nc6"
+  },
+  "r1bqkbnr/pp1ppppp/2n5/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3": {
+    "moves": [
+      {
+        "uci": "c5d4",
+        "san": "cxd4",
+        "games": 3193354,
+        "win_rate": 0.509
+      },
+      {
+        "uci": "e7e6",
+        "san": "e6",
+        "games": 5173,
+        "win_rate": 0.601
+      },
+      {
+        "uci": "c6d4",
+        "san": "Nxd4",
+        "games": 4405,
+        "win_rate": 0.591
+      },
+      {
+        "uci": "d7d6",
+        "san": "d6",
+        "games": 3741,
+        "win_rate": 0.603
+      },
+      {
+        "uci": "g7g6",
+        "san": "g6",
+        "games": 2751,
+        "win_rate": 0.566
+      },
+      {
+        "uci": "c5c4",
+        "san": "c4",
+        "games": 2614,
+        "win_rate": 0.688
+      },
+      {
+        "uci": "d7d5",
+        "san": "d5",
+        "games": 739,
+        "win_rate": 0.603
+      },
+      {
+        "uci": "g8f6",
+        "san": "Nf6",
+        "games": 525,
+        "win_rate": 0.597
+      },
+      {
+        "uci": "e7e5",
+        "san": "e5",
+        "games": 511,
+        "win_rate": 0.616
+      },
+      {
+        "uci": "f7f5",
+        "san": "f5",
+        "games": 454,
+        "win_rate": 0.391
+      },
+      {
+        "uci": "b7b6",
+        "san": "b6",
+        "games": 325,
+        "win_rate": 0.598
+      },
+      {
+        "uci": "h7h6",
+        "san": "h6",
+        "games": 188,
+        "win_rate": 0.614
+      }
+    ],
+    "move_sequence": "e4 c5 Nf3 Nc6 d4"
+  },
+  "r1bqkbnr/pp1ppppp/2n5/1Bp5/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3": {
+    "moves": [
+      {
+        "uci": "g7g6",
+        "san": "g6",
+        "games": 661413,
+        "win_rate": 0.551
+      },
+      {
+        "uci": "e7e6",
+        "san": "e6",
+        "games": 246597,
+        "win_rate": 0.542
+      },
+      {
+        "uci": "d7d6",
+        "san": "d6",
+        "games": 143216,
+        "win_rate": 0.569
+      },
+      {
+        "uci": "c6d4",
+        "san": "Nd4",
+        "games": 119127,
+        "win_rate": 0.568
+      },
+      {
+        "uci": "g8f6",
+        "san": "Nf6",
+        "games": 113320,
+        "win_rate": 0.524
+      },
+      {
+        "uci": "e7e5",
+        "san": "e5",
+        "games": 62197,
+        "win_rate": 0.524
+      },
+      {
+        "uci": "d8b6",
+        "san": "Qb6",
+        "games": 56917,
+        "win_rate": 0.541
+      },
+      {
+        "uci": "d8c7",
+        "san": "Qc7",
+        "games": 40271,
+        "win_rate": 0.565
+      },
+      {
+        "uci": "a7a6",
+        "san": "a6",
+        "games": 36958,
+        "win_rate": 0.589
+      },
+      {
+        "uci": "c6a5",
+        "san": "Na5",
+        "games": 31016,
+        "win_rate": 0.52
+      },
+      {
+        "uci": "g7g5",
+        "san": "g5",
+        "games": 6818,
+        "win_rate": 0.523
+      },
+      {
+        "uci": "c6b8",
+        "san": "Nb8",
+        "games": 3888,
+        "win_rate": 0.586
+      }
+    ],
+    "move_sequence": "e4 c5 Nf3 Nc6 Bb5"
+  },
+  "rnbqkbnr/pp1ppppp/8/2p5/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2": {
+    "moves": [
+      {
+        "uci": "b8c6",
+        "san": "Nc6",
+        "games": 1773805,
+        "win_rate": 0.53
+      },
+      {
+        "uci": "e7e6",
+        "san": "e6",
+        "games": 857646,
+        "win_rate": 0.516
+      },
+      {
+        "uci": "d7d6",
+        "san": "d6",
+        "games": 732416,
+        "win_rate": 0.539
+      },
+      {
+        "uci": "g7g6",
+        "san": "g6",
+        "games": 334779,
+        "win_rate": 0.53
+      },
+      {
+        "uci": "a7a6",
+        "san": "a6",
+        "games": 302562,
+        "win_rate": 0.508
+      },
+      {
+        "uci": "e7e5",
+        "san": "e5",
+        "games": 16429,
+        "win_rate": 0.576
+      },
+      {
+        "uci": "g8f6",
+        "san": "Nf6",
+        "games": 15271,
+        "win_rate": 0.525
+      },
+      {
+        "uci": "b7b6",
+        "san": "b6",
+        "games": 11245,
+        "win_rate": 0.513
+      },
+      {
+        "uci": "d7d5",
+        "san": "d5",
+        "games": 1960,
+        "win_rate": 0.544
+      },
+      {
+        "uci": "f7f5",
+        "san": "f5",
+        "games": 1066,
+        "win_rate": 0.526
+      },
+      {
+        "uci": "g7g5",
+        "san": "g5",
+        "games": 791,
+        "win_rate": 0.576
+      },
+      {
+        "uci": "d8c7",
+        "san": "Qc7",
+        "games": 531,
+        "win_rate": 0.555
+      }
+    ],
+    "move_sequence": "e4 c5 Nc3"
+  },
+  "r1bqkbnr/pp1ppppp/2n5/2p5/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 3": {
+    "moves": [
+      {
+        "uci": "f2f4",
+        "san": "f4",
+        "games": 484474,
+        "win_rate": 0.525
+      },
+      {
+        "uci": "g2g3",
+        "san": "g3",
+        "games": 471976,
+        "win_rate": 0.526
+      },
+      {
+        "uci": "f1b5",
+        "san": "Bb5",
+        "games": 380715,
+        "win_rate": 0.559
+      },
+      {
+        "uci": "g1f3",
+        "san": "Nf3",
+        "games": 200690,
+        "win_rate": 0.516
+      },
+      {
+        "uci": "f1c4",
+        "san": "Bc4",
+        "games": 80860,
+        "win_rate": 0.503
+      },
+      {
+        "uci": "g1e2",
+        "san": "Nge2",
+        "games": 71699,
+        "win_rate": 0.546
+      },
+      {
+        "uci": "d2d3",
+        "san": "d3",
+        "games": 62142,
+        "win_rate": 0.508
+      },
+      {
+        "uci": "b2b3",
+        "san": "b3",
+        "games": 4901,
+        "win_rate": 0.454
+      },
+      {
+        "uci": "g2g4",
+        "san": "g4",
+        "games": 4776,
+        "win_rate": 0.49
+      },
+      {
+        "uci": "a2a3",
+        "san": "a3",
+        "games": 4544,
+        "win_rate": 0.482
+      },
+      {
+        "uci": "a2a4",
+        "san": "a4",
+        "games": 1791,
+        "win_rate": 0.489
+      },
+      {
+        "uci": "f2f3",
+        "san": "f3",
+        "games": 1327,
+        "win_rate": 0.469
+      }
+    ],
+    "move_sequence": "e4 c5 Nc3 Nc6"
+  },
+  "r1bqkbnr/pp1ppppp/2n5/2p5/4PP2/2N5/PPPP2PP/R1BQKBNR b KQkq - 0 3": {
+    "moves": [
+      {
+        "uci": "g7g6",
+        "san": "g6",
+        "games": 283459,
+        "win_rate": 0.519
+      },
+      {
+        "uci": "e7e6",
+        "san": "e6",
+        "games": 118247,
+        "win_rate": 0.512
+      },
+      {
+        "uci": "d7d6",
+        "san": "d6",
+        "games": 61277,
+        "win_rate": 0.569
+      },
+      {
+        "uci": "a7a6",
+        "san": "a6",
+        "games": 8711,
+        "win_rate": 0.51
+      },
+      {
+        "uci": "e7e5",
+        "san": "e5",
+        "games": 8696,
+        "win_rate": 0.584
+      },
+      {
+        "uci": "g8f6",
+        "san": "Nf6",
+        "games": 5315,
+        "win_rate": 0.509
+      },
+      {
+        "uci": "g7g5",
+        "san": "g5",
+        "games": 1503,
+        "win_rate": 0.522
+      },
+      {
+        "uci": "b7b6",
+        "san": "b6",
+        "games": 869,
+        "win_rate": 0.591
+      },
+      {
+        "uci": "c6d4",
+        "san": "Nd4",
+        "games": 744,
+        "win_rate": 0.546
+      },
+      {
+        "uci": "a8b8",
+        "san": "Rb8",
+        "games": 640,
+        "win_rate": 0.542
+      },
+      {
+        "uci": "d8c7",
+        "san": "Qc7",
+        "games": 623,
+        "win_rate": 0.561
+      },
+      {
+        "uci": "d7d5",
+        "san": "d5",
+        "games": 581,
+        "win_rate": 0.592
+      }
+    ],
+    "move_sequence": "e4 c5 Nc3 Nc6 f4"
+  },
+  "r1bqkbnr/pp1ppppp/2n5/2p5/4P3/2N3P1/PPPP1P1P/R1BQKBNR b KQkq - 0 3": {
+    "moves": [
+      {
+        "uci": "g7g6",
+        "san": "g6",
+        "games": 332389,
+        "win_rate": 0.517
+      },
+      {
+        "uci": "e7e6",
+        "san": "e6",
+        "games": 46105,
+        "win_rate": 0.546
+      },
+      {
+        "uci": "d7d6",
+        "san": "d6",
+        "games": 38898,
+        "win_rate": 0.558
+      },
+      {
+        "uci": "e7e5",
+        "san": "e5",
+        "games": 22643,
+        "win_rate": 0.552
+      },
+      {
+        "uci": "g8f6",
+        "san": "Nf6",
+        "games": 16920,
+        "win_rate": 0.542
+      },
+      {
+        "uci": "h7h5",
+        "san": "h5",
+        "games": 6587,
+        "win_rate": 0.509
+      },
+      {
+        "uci": "a7a6",
+        "san": "a6",
+        "games": 3834,
+        "win_rate": 0.551
+      },
+      {
+        "uci": "a8b8",
+        "san": "Rb8",
+        "games": 2201,
+        "win_rate": 0.468
+      },
+      {
+        "uci": "b7b6",
+        "san": "b6",
+        "games": 1168,
+        "win_rate": 0.592
+      },
+      {
+        "uci": "c6d4",
+        "san": "Nd4",
+        "games": 579,
+        "win_rate": 0.56
+      },
+      {
+        "uci": "g7g5",
+        "san": "g5",
+        "games": 379,
+        "win_rate": 0.545
+      },
+      {
+        "uci": "f7f5",
+        "san": "f5",
+        "games": 251,
+        "win_rate": 0.522
+      }
+    ],
+    "move_sequence": "e4 c5 Nc3 Nc6 g3"
+  },
+  "rnbqkbnr/pp1p1ppp/4p3/2p5/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 0 3": {
+    "moves": [
+      {
+        "uci": "f2f4",
+        "san": "f4",
+        "games": 263819,
+        "win_rate": 0.503
+      },
+      {
+        "uci": "g2g3",
+        "san": "g3",
+        "games": 254987,
+        "win_rate": 0.523
+      },
+      {
+        "uci": "g1f3",
+        "san": "Nf3",
+        "games": 166684,
+        "win_rate": 0.527
+      },
+      {
+        "uci": "g1e2",
+        "san": "Nge2",
+        "games": 81274,
+        "win_rate": 0.544
+      },
+      {
+        "uci": "f1c4",
+        "san": "Bc4",
+        "games": 45783,
+        "win_rate": 0.5
+      },
+      {
+        "uci": "d2d3",
+        "san": "d3",
+        "games": 31073,
+        "win_rate": 0.488
+      },
+      {
+        "uci": "d2d4",
+        "san": "d4",
+        "games": 23326,
+        "win_rate": 0.522
+      },
+      {
+        "uci": "b2b3",
+        "san": "b3",
+        "games": 3282,
+        "win_rate": 0.482
+      },
+      {
+        "uci": "g2g4",
+        "san": "g4",
+        "games": 1835,
+        "win_rate": 0.503
+      },
+      {
+        "uci": "a2a3",
+        "san": "a3",
+        "games": 1480,
+        "win_rate": 0.459
+      },
+      {
+        "uci": "a2a4",
+        "san": "a4",
+        "games": 1310,
+        "win_rate": 0.468
+      },
+      {
+        "uci": "e4e5",
+        "san": "e5",
+        "games": 1191,
+        "win_rate": 0.418
+      }
+    ],
+    "move_sequence": "e4 c5 Nc3 e6"
+  },
+  "rnbqkbnr/pp1p1ppp/4p3/2p5/4PP2/2N5/PPPP2PP/R1BQKBNR b KQkq - 0 3": {
+    "moves": [
+      {
+        "uci": "d7d5",
+        "san": "d5",
+        "games": 95399,
+        "win_rate": 0.496
+      },
+      {
+        "uci": "a7a6",
+        "san": "a6",
+        "games": 75784,
+        "win_rate": 0.496
+      },
+      {
+        "uci": "b8c6",
+        "san": "Nc6",
+        "games": 72693,
+        "win_rate": 0.509
+      },
+      {
+        "uci": "d7d6",
+        "san": "d6",
+        "games": 7289,
+        "win_rate": 0.549
+      },
+      {
+        "uci": "g7g6",
+        "san": "g6",
+        "games": 4194,
+        "win_rate": 0.528
+      },
+      {
+        "uci": "g8f6",
+        "san": "Nf6",
+        "games": 3909,
+        "win_rate": 0.51
+      },
+      {
+        "uci": "g8e7",
+        "san": "Ne7",
+        "games": 2740,
+        "win_rate": 0.518
+      },
+      {
+        "uci": "d8c7",
+        "san": "Qc7",
+        "games": 2359,
+        "win_rate": 0.517
+      },
+      {
+        "uci": "b7b6",
+        "san": "b6",
+        "games": 2208,
+        "win_rate": 0.494
+      },
+      {
+        "uci": "f8e7",
+        "san": "Be7",
+        "games": 759,
+        "win_rate": 0.54
+      },
+      {
+        "uci": "d8h4",
+        "san": "Qh4+",
+        "games": 275,
+        "win_rate": 0.536
+      },
+      {
+        "uci": "g7g5",
+        "san": "g5",
+        "games": 182,
+        "win_rate": 0.621
+      }
+    ],
+    "move_sequence": "e4 c5 Nc3 e6 f4"
+  },
+  "rnbqkbnr/pp1p1ppp/4p3/2p5/4P3/2N3P1/PPPP1P1P/R1BQKBNR b KQkq - 0 3": {
+    "moves": [
+      {
+        "uci": "b8c6",
+        "san": "Nc6",
+        "games": 88285,
+        "win_rate": 0.524
+      },
+      {
+        "uci": "d7d5",
+        "san": "d5",
+        "games": 70183,
+        "win_rate": 0.507
+      },
+      {
+        "uci": "a7a6",
+        "san": "a6",
+        "games": 61254,
+        "win_rate": 0.523
+      },
+      {
+        "uci": "g7g6",
+        "san": "g6",
+        "games": 7765,
+        "win_rate": 0.562
+      },
+      {
+        "uci": "b7b6",
+        "san": "b6",
+        "games": 7385,
+        "win_rate": 0.549
+      },
+      {
+        "uci": "g8f6",
+        "san": "Nf6",
+        "games": 6975,
+        "win_rate": 0.544
+      },
+      {
+        "uci": "d7d6",
+        "san": "d6",
+        "games": 6051,
+        "win_rate": 0.554
+      },
+      {
+        "uci": "h7h5",
+        "san": "h5",
+        "games": 3203,
+        "win_rate": 0.528
+      },
+      {
+        "uci": "g8e7",
+        "san": "Ne7",
+        "games": 2205,
+        "win_rate": 0.565
+      },
+      {
+        "uci": "f8e7",
+        "san": "Be7",
+        "games": 983,
+        "win_rate": 0.558
+      },
+      {
+        "uci": "d8c7",
+        "san": "Qc7",
+        "games": 646,
+        "win_rate": 0.553
+      }
+    ],
+    "move_sequence": "e4 c5 Nc3 e6 g3"
+  },
+  "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2": {
+    "moves": [
+      {
+        "uci": "g1f3",
+        "san": "Nf3",
+        "games": 12485512,
+        "win_rate": 0.518
+      },
+      {
+        "uci": "b1c3",
+        "san": "Nc3",
+        "games": 1252837,
+        "win_rate": 0.539
+      },
+      {
+        "uci": "f2f4",
+        "san": "f4",
+        "games": 1009038,
+        "win_rate": 0.499
+      },
+      {
+        "uci": "d2d4",
+        "san": "d4",
+        "games": 838916,
+        "win_rate": 0.528
+      },
+      {
+        "uci": "f1c4",
+        "san": "Bc4",
+        "games": 675320,
+        "win_rate": 0.521
+      },
+      {
+        "uci": "d2d3",
+        "san": "d3",
+        "games": 62865,
+        "win_rate": 0.47
+      },
+      {
+        "uci": "c2c4",
+        "san": "c4",
+        "games": 30586,
+        "win_rate": 0.477
+      },
+      {
+        "uci": "d1h5",
+        "san": "Qh5",
+        "games": 30544,
+        "win_rate": 0.55
+      },
+      {
+        "uci": "g2g3",
+        "san": "g3",
+        "games": 21045,
+        "win_rate": 0.497
+      },
+      {
+        "uci": "c2c3",
+        "san": "c3",
+        "games": 19796,
+        "win_rate": 0.464
+      },
+      {
+        "uci": "f2f3",
+        "san": "f3",
+        "games": 12728,
+        "win_rate": 0.426
+      },
+      {
+        "uci": "g1e2",
+        "san": "Ne2",
+        "games": 12718,
+        "win_rate": 0.486
+      }
+    ],
+    "move_sequence": "e4 e5"
+  },
+  "rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2": {
+    "moves": [
+      {
+        "uci": "b8c6",
+        "san": "Nc6",
+        "games": 9625429,
+        "win_rate": 0.519
+      },
+      {
+        "uci": "g8f6",
+        "san": "Nf6",
+        "games": 1530581,
+        "win_rate": 0.514
+      },
+      {
+        "uci": "d7d6",
+        "san": "d6",
+        "games": 711687,
+        "win_rate": 0.534
+      },
+      {
+        "uci": "d7d5",
+        "san": "d5",
+        "games": 333533,
+        "win_rate": 0.491
+      },
+      {
+        "uci": "f7f5",
+        "san": "f5",
+        "games": 173984,
+        "win_rate": 0.504
+      },
+      {
+        "uci": "d8e7",
+        "san": "Qe7",
+        "games": 49251,
+        "win_rate": 0.511
+      },
+      {
+        "uci": "f8c5",
+        "san": "Bc5",
+        "games": 27394,
+        "win_rate": 0.562
+      },
+      {
+        "uci": "f7f6",
+        "san": "f6",
+        "games": 10188,
+        "win_rate": 0.542
+      },
+      {
+        "uci": "d8f6",
+        "san": "Qf6",
+        "games": 7535,
+        "win_rate": 0.583
+      },
+      {
+        "uci": "c7c6",
+        "san": "c6",
+        "games": 7338,
+        "win_rate": 0.568
+      },
+      {
+        "uci": "c7c5",
+        "san": "c5",
+        "games": 1339,
+        "win_rate": 0.591
+      },
+      {
+        "uci": "f8d6",
+        "san": "Bd6",
+        "games": 1335,
+        "win_rate": 0.572
+      }
+    ],
+    "move_sequence": "e4 e5 Nf3"
+  },
+  "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3": {
+    "moves": [
+      {
+        "uci": "f1b5",
+        "san": "Bb5",
+        "games": 3946009,
+        "win_rate": 0.52
+      },
+      {
+        "uci": "f1c4",
+        "san": "Bc4",
+        "games": 3215371,
+        "win_rate": 0.509
+      },
+      {
+        "uci": "d2d4",
+        "san": "d4",
+        "games": 1614558,
+        "win_rate": 0.526
+      },
+      {
+        "uci": "b1c3",
+        "san": "Nc3",
+        "games": 759973,
+        "win_rate": 0.545
+      },
+      {
+        "uci": "c2c3",
+        "san": "c3",
+        "games": 168935,
+        "win_rate": 0.515
+      },
+      {
+        "uci": "d2d3",
+        "san": "d3",
+        "games": 35842,
+        "win_rate": 0.486
+      },
+      {
+        "uci": "g2g3",
+        "san": "g3",
+        "games": 18689,
+        "win_rate": 0.512
+      },
+      {
+        "uci": "f1e2",
+        "san": "Be2",
+        "games": 16397,
+        "win_rate": 0.494
+      },
+      {
+        "uci": "c2c4",
+        "san": "c4",
+        "games": 7162,
+        "win_rate": 0.486
+      },
+      {
+        "uci": "b2b3",
+        "san": "b3",
+        "games": 4022,
+        "win_rate": 0.445
+      },
+      {
+        "uci": "f3e5",
+        "san": "Nxe5",
+        "games": 2484,
+        "win_rate": 0.397
+      },
+      {
+        "uci": "h2h3",
+        "san": "h3",
+        "games": 1797,
+        "win_rate": 0.493
+      }
+    ],
+    "move_sequence": "e4 e5 Nf3 Nc6"
+  },
+  "r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3": {
+    "moves": [
+      {
+        "uci": "a7a6",
+        "san": "a6",
+        "games": 2228080,
+        "win_rate": 0.52
+      },
+      {
+        "uci": "g8f6",
+        "san": "Nf6",
+        "games": 697992,
+        "win_rate": 0.523
+      },
+      {
+        "uci": "f8c5",
+        "san": "Bc5",
+        "games": 288307,
+        "win_rate": 0.522
+      },
+      {
+        "uci": "f7f5",
+        "san": "f5",
+        "games": 266249,
+        "win_rate": 0.483
+      },
+      {
+        "uci": "g8e7",
+        "san": "Nge7",
+        "games": 170041,
+        "win_rate": 0.504
+      },
+      {
+        "uci": "d7d6",
+        "san": "d6",
+        "games": 128788,
+        "win_rate": 0.594
+      },
+      {
+        "uci": "c6d4",
+        "san": "Nd4",
+        "games": 73209,
+        "win_rate": 0.543
+      },
+      {
+        "uci": "g7g6",
+        "san": "g6",
+        "games": 60231,
+        "win_rate": 0.493
+      },
+      {
+        "uci": "d8f6",
+        "san": "Qf6",
+        "games": 8637,
+        "win_rate": 0.552
+      },
+      {
+        "uci": "f8b4",
+        "san": "Bb4",
+        "games": 6707,
+        "win_rate": 0.483
+      },
+      {
+        "uci": "f8e7",
+        "san": "Be7",
+        "games": 6050,
+        "win_rate": 0.557
+      },
+      {
+        "uci": "f8d6",
+        "san": "Bd6",
+        "games": 4466,
+        "win_rate": 0.577
+      }
+    ],
+    "move_sequence": "e4 e5 Nf3 Nc6 Bb5"
+  },
+  "r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3": {
+    "moves": [
+      {
+        "uci": "g8f6",
+        "san": "Nf6",
+        "games": 1546383,
+        "win_rate": 0.503
+      },
+      {
+        "uci": "f8c5",
+        "san": "Bc5",
+        "games": 1369054,
+        "win_rate": 0.509
+      },
+      {
+        "uci": "f8e7",
+        "san": "Be7",
+        "games": 187309,
+        "win_rate": 0.535
+      },
+      {
+        "uci": "d7d6",
+        "san": "d6",
+        "games": 63001,
+        "win_rate": 0.54
+      },
+      {
+        "uci": "f7f5",
+        "san": "f5",
+        "games": 40063,
+        "win_rate": 0.503
+      },
+      {
+        "uci": "g7g6",
+        "san": "g6",
+        "games": 23318,
+        "win_rate": 0.487
+      },
+      {
+        "uci": "h7h6",
+        "san": "h6",
+        "games": 20532,
+        "win_rate": 0.59
+      },
+      {
+        "uci": "c6d4",
+        "san": "Nd4",
+        "games": 19307,
+        "win_rate": 0.524
+      },
+      {
+        "uci": "a7a6",
+        "san": "a6",
+        "games": 8148,
+        "win_rate": 0.536
+      },
+      {
+        "uci": "g8e7",
+        "san": "Nge7",
+        "games": 5113,
+        "win_rate": 0.533
+      },
+      {
+        "uci": "d8f6",
+        "san": "Qf6",
+        "games": 1863,
+        "win_rate": 0.585
+      },
+      {
+        "uci": "f8d6",
+        "san": "Bd6",
+        "games": 1504,
+        "win_rate": 0.57
+      }
+    ],
+    "move_sequence": "e4 e5 Nf3 Nc6 Bc4"
+  },
+  "rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3": {
+    "moves": [
+      {
+        "uci": "f3e5",
+        "san": "Nxe5",
+        "games": 726765,
+        "win_rate": 0.518
+      },
+      {
+        "uci": "b1c3",
+        "san": "Nc3",
+        "games": 423373,
+        "win_rate": 0.507
+      },
+      {
+        "uci": "d2d4",
+        "san": "d4",
+        "games": 204991,
+        "win_rate": 0.535
+      },
+      {
+        "uci": "f1c4",
+        "san": "Bc4",
+        "games": 104509,
+        "win_rate": 0.488
+      },
+      {
+        "uci": "d2d3",
+        "san": "d3",
+        "games": 58491,
+        "win_rate": 0.498
+      },
+      {
+        "uci": "c2c3",
+        "san": "c3",
+        "games": 3117,
+        "win_rate": 0.478
+      },
+      {
+        "uci": "f1d3",
+        "san": "Bd3",
+        "games": 2812,
+        "win_rate": 0.466
+      },
+      {
+        "uci": "f1b5",
+        "san": "Bb5",
+        "games": 2714,
+        "win_rate": 0.495
+      },
+      {
+        "uci": "d1e2",
+        "san": "Qe2",
+        "games": 2567,
+        "win_rate": 0.481
+      },
+      {
+        "uci": "f1e2",
+        "san": "Be2",
+        "games": 597,
+        "win_rate": 0.458
+      },
+      {
+        "uci": "g2g3",
+        "san": "g3",
+        "games": 200,
+        "win_rate": 0.463
+      },
+      {
+        "uci": "c2c4",
+        "san": "c4",
+        "games": 184,
+        "win_rate": 0.503
+      }
+    ],
+    "move_sequence": "e4 e5 Nf3 Nf6"
+  },
+  "rnbqkb1r/pppp1ppp/5n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R b KQkq - 0 3": {
+    "moves": [
+      {
+        "uci": "d7d6",
+        "san": "d6",
+        "games": 497226,
+        "win_rate": 0.528
+      },
+      {
+        "uci": "b8c6",
+        "san": "Nc6",
+        "games": 121097,
+        "win_rate": 0.514
+      },
+      {
+        "uci": "f6e4",
+        "san": "Nxe4",
+        "games": 85235,
+        "win_rate": 0.468
+      },
+      {
+        "uci": "d7d5",
+        "san": "d5",
+        "games": 10708,
+        "win_rate": 0.47
+      },
+      {
+        "uci": "d8e7",
+        "san": "Qe7",
+        "games": 10512,
+        "win_rate": 0.559
+      },
+      {
+        "uci": "f8c5",
+        "san": "Bc5",
+        "games": 835,
+        "win_rate": 0.627
+      },
+      {
+        "uci": "c7c6",
+        "san": "c6",
+        "games": 562,
+        "win_rate": 0.515
+      },
+      {
+        "uci": "f8d6",
+        "san": "Bd6",
+        "games": 233,
+        "win_rate": 0.661
+      },
+      {
+        "uci": "f8e7",
+        "san": "Be7",
+        "games": 155,
+        "win_rate": 0.639
+      }
+    ],
+    "move_sequence": "e4 e5 Nf3 Nf6 Nxe5"
+  },
+  "rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3": {
+    "moves": [
+      {
+        "uci": "b8c6",
+        "san": "Nc6",
+        "games": 424199,
+        "win_rate": 0.507
+      },
+      {
+        "uci": "f8b4",
+        "san": "Bb4",
+        "games": 129474,
+        "win_rate": 0.491
+      },
+      {
+        "uci": "d7d6",
+        "san": "d6",
+        "games": 30718,
+        "win_rate": 0.537
+      },
+      {
+        "uci": "f8c5",
+        "san": "Bc5",
+        "games": 28725,
+        "win_rate": 0.525
+      },
+      {
+        "uci": "d7d5",
+        "san": "d5",
+        "games": 9077,
+        "win_rate": 0.527
+      },
+      {
+        "uci": "c7c6",
+        "san": "c6",
+        "games": 840,
+        "win_rate": 0.611
+      },
+      {
+        "uci": "f6e4",
+        "san": "Nxe4",
+        "games": 601,
+        "win_rate": 0.592
+      },
+      {
+        "uci": "f8d6",
+        "san": "Bd6",
+        "games": 309,
+        "win_rate": 0.536
+      },
+      {
+        "uci": "f8e7",
+        "san": "Be7",
+        "games": 299,
+        "win_rate": 0.582
+      },
+      {
+        "uci": "d8e7",
+        "san": "Qe7",
+        "games": 201,
+        "win_rate": 0.433
+      }
+    ],
+    "move_sequence": "e4 e5 Nf3 Nf6 Nc3"
+  },
+  "rnbqkbnr/pppp1ppp/8/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2": {
+    "moves": [
+      {
+        "uci": "g8f6",
+        "san": "Nf6",
+        "games": 594200,
+        "win_rate": 0.533
+      },
+      {
+        "uci": "b8c6",
+        "san": "Nc6",
+        "games": 525121,
+        "win_rate": 0.54
+      },
+      {
+        "uci": "f8c5",
+        "san": "Bc5",
+        "games": 58343,
+        "win_rate": 0.542
+      },
+      {
+        "uci": "d7d6",
+        "san": "d6",
+        "games": 49793,
+        "win_rate": 0.57
+      },
+      {
+        "uci": "f7f5",
+        "san": "f5",
+        "games": 20738,
+        "win_rate": 0.557
+      },
+      {
+        "uci": "f8b4",
+        "san": "Bb4",
+        "games": 12167,
+        "win_rate": 0.535
+      },
+      {
+        "uci": "c7c6",
+        "san": "c6",
+        "games": 9794,
+        "win_rate": 0.591
+      },
+      {
+        "uci": "d7d5",
+        "san": "d5",
+        "games": 5994,
+        "win_rate": 0.529
+      },
+      {
+        "uci": "g7g6",
+        "san": "g6",
+        "games": 2963,
+        "win_rate": 0.572
+      },
+      {
+        "uci": "c7c5",
+        "san": "c5",
+        "games": 1633,
+        "win_rate": 0.586
+      },
+      {
+        "uci": "d8e7",
+        "san": "Qe7",
+        "games": 1630,
+        "win_rate": 0.529
+      },
+      {
+        "uci": "g8e7",
+        "san": "Ne7",
+        "games": 1150,
+        "win_rate": 0.6
+      }
+    ],
+    "move_sequence": "e4 e5 Nc3"
+  },
+  "rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 3": {
+    "moves": [
+      {
+        "uci": "f2f4",
+        "san": "f4",
+        "games": 239255,
+        "win_rate": 0.54
+      },
+      {
+        "uci": "g1f3",
+        "san": "Nf3",
+        "games": 201509,
+        "win_rate": 0.506
+      },
+      {
+        "uci": "f1c4",
+        "san": "Bc4",
+        "games": 200167,
+        "win_rate": 0.529
+      },
+      {
+        "uci": "g2g3",
+        "san": "g3",
+        "games": 111337,
+        "win_rate": 0.535
+      },
+      {
+        "uci": "d2d4",
+        "san": "d4",
+        "games": 22502,
+        "win_rate": 0.555
+      },
+      {
+        "uci": "d2d3",
+        "san": "d3",
+        "games": 13315,
+        "win_rate": 0.444
+      },
+      {
+        "uci": "g1e2",
+        "san": "Nge2",
+        "games": 5958,
+        "win_rate": 0.474
+      },
+      {
+        "uci": "a2a3",
+        "san": "a3",
+        "games": 1513,
+        "win_rate": 0.506
+      },
+      {
+        "uci": "b2b3",
+        "san": "b3",
+        "games": 1435,
+        "win_rate": 0.467
+      },
+      {
+        "uci": "f2f3",
+        "san": "f3",
+        "games": 1194,
+        "win_rate": 0.389
+      },
+      {
+        "uci": "f1b5",
+        "san": "Bb5",
+        "games": 1076,
+        "win_rate": 0.501
+      },
+      {
+        "uci": "h2h3",
+        "san": "h3",
+        "games": 890,
+        "win_rate": 0.457
+      }
+    ],
+    "move_sequence": "e4 e5 Nc3 Nf6"
+  },
+  "rnbqkb1r/pppp1ppp/5n2/4p3/4PP2/2N5/PPPP2PP/R1BQKBNR b KQkq - 0 3": {
+    "moves": [
+      {
+        "uci": "d7d5",
+        "san": "d5",
+        "games": 178458,
+        "win_rate": 0.517
+      },
+      {
+        "uci": "d7d6",
+        "san": "d6",
+        "games": 31692,
+        "win_rate": 0.579
+      },
+      {
+        "uci": "e5f4",
+        "san": "exf4",
+        "games": 17412,
+        "win_rate": 0.602
+      },
+      {
+        "uci": "b8c6",
+        "san": "Nc6",
+        "games": 13173,
+        "win_rate": 0.615
+      },
+      {
+        "uci": "f8b4",
+        "san": "Bb4",
+        "games": 4444,
+        "win_rate": 0.575
+      },
+      {
+        "uci": "f8c5",
+        "san": "Bc5",
+        "games": 1804,
+        "win_rate": 0.649
+      },
+      {
+        "uci": "f8d6",
+        "san": "Bd6",
+        "games": 150,
+        "win_rate": 0.73
+      },
+      {
+        "uci": "f6e4",
+        "san": "Nxe4",
+        "games": 125,
+        "win_rate": 0.624
+      }
+    ],
+    "move_sequence": "e4 e5 Nc3 Nf6 f4"
+  },
+  "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 3": {
+    "moves": [
+      {
+        "uci": "f1c4",
+        "san": "Bc4",
+        "games": 223090,
+        "win_rate": 0.547
+      },
+      {
+        "uci": "f2f4",
+        "san": "f4",
+        "games": 133635,
+        "win_rate": 0.54
+      },
+      {
+        "uci": "g1f3",
+        "san": "Nf3",
+        "games": 115314,
+        "win_rate": 0.534
+      },
+      {
+        "uci": "g2g3",
+        "san": "g3",
+        "games": 94687,
+        "win_rate": 0.555
+      },
+      {
+        "uci": "d2d3",
+        "san": "d3",
+        "games": 9854,
+        "win_rate": 0.479
+      },
+      {
+        "uci": "f1b5",
+        "san": "Bb5",
+        "games": 6957,
+        "win_rate": 0.508
+      },
+      {
+        "uci": "g1e2",
+        "san": "Nge2",
+        "games": 5314,
+        "win_rate": 0.485
+      },
+      {
+        "uci": "b2b3",
+        "san": "b3",
+        "games": 1712,
+        "win_rate": 0.457
+      },
+      {
+        "uci": "a2a3",
+        "san": "a3",
+        "games": 779,
+        "win_rate": 0.458
+      },
+      {
+        "uci": "d2d4",
+        "san": "d4",
+        "games": 728,
+        "win_rate": 0.462
+      },
+      {
+        "uci": "f2f3",
+        "san": "f3",
+        "games": 639,
+        "win_rate": 0.445
+      },
+      {
+        "uci": "f1d3",
+        "san": "Bd3",
+        "games": 577,
+        "win_rate": 0.549
+      }
+    ],
+    "move_sequence": "e4 e5 Nc3 Nc6"
+  },
+  "r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/2N5/PPPP1PPP/R1BQK1NR b KQkq - 3 3": {
+    "moves": [
+      {
+        "uci": "g8f6",
+        "san": "Nf6",
+        "games": 169071,
+        "win_rate": 0.527
+      },
+      {
+        "uci": "f8c5",
+        "san": "Bc5",
+        "games": 87875,
+        "win_rate": 0.572
+      },
+      {
+        "uci": "d7d6",
+        "san": "d6",
+        "games": 10515,
+        "win_rate": 0.566
+      },
+      {
+        "uci": "f8e7",
+        "san": "Be7",
+        "games": 7180,
+        "win_rate": 0.562
+      },
+      {
+        "uci": "f7f5",
+        "san": "f5",
+        "games": 5953,
+        "win_rate": 0.514
+      },
+      {
+        "uci": "g7g6",
+        "san": "g6",
+        "games": 5240,
+        "win_rate": 0.508
+      },
+      {
+        "uci": "f8b4",
+        "san": "Bb4",
+        "games": 5169,
+        "win_rate": 0.565
+      },
+      {
+        "uci": "a7a6",
+        "san": "a6",
+        "games": 930,
+        "win_rate": 0.581
+      },
+      {
+        "uci": "g8e7",
+        "san": "Nge7",
+        "games": 767,
+        "win_rate": 0.6
+      },
+      {
+        "uci": "h7h6",
+        "san": "h6",
+        "games": 703,
+        "win_rate": 0.528
+      },
+      {
+        "uci": "c6a5",
+        "san": "Na5",
+        "games": 544,
+        "win_rate": 0.583
+      },
+      {
+        "uci": "d8g5",
+        "san": "Qg5",
+        "games": 301,
+        "win_rate": 0.517
+      }
+    ],
+    "move_sequence": "e4 e5 Nc3 Nc6 Bc4"
+  },
+  "r1bqkbnr/pppp1ppp/2n5/4p3/4PP2/2N5/PPPP2PP/R1BQKBNR b KQkq - 0 3": {
+    "moves": [
+      {
+        "uci": "e5f4",
+        "san": "exf4",
+        "games": 67846,
+        "win_rate": 0.518
+      },
+      {
+        "uci": "d7d6",
+        "san": "d6",
+        "games": 26762,
+        "win_rate": 0.579
+      },
+      {
+        "uci": "f8c5",
+        "san": "Bc5",
+        "games": 25632,
+        "win_rate": 0.528
+      },
+      {
+        "uci": "g8f6",
+        "san": "Nf6",
+        "games": 10393,
+        "win_rate": 0.596
+      },
+      {
+        "uci": "f8b4",
+        "san": "Bb4",
+        "games": 4649,
+        "win_rate": 0.535
+      },
+      {
+        "uci": "f7f5",
+        "san": "f5",
+        "games": 3142,
+        "win_rate": 0.577
+      },
+      {
+        "uci": "d7d5",
+        "san": "d5",
+        "games": 837,
+        "win_rate": 0.608
+      },
+      {
+        "uci": "g7g6",
+        "san": "g6",
+        "games": 376,
+        "win_rate": 0.585
+      },
+      {
+        "uci": "f7f6",
+        "san": "f6",
+        "games": 320,
+        "win_rate": 0.606
+      },
+      {
+        "uci": "d8h4",
+        "san": "Qh4+",
+        "games": 208,
+        "win_rate": 0.695
+      },
+      {
+        "uci": "f8e7",
+        "san": "Be7",
+        "games": 199,
+        "win_rate": 0.585
+      },
+      {
+        "uci": "g8e7",
+        "san": "Nge7",
+        "games": 184,
+        "win_rate": 0.617
+      }
+    ],
+    "move_sequence": "e4 e5 Nc3 Nc6 f4"
+  },
+  "rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1": {
+    "moves": [
+      {
+        "uci": "g8f6",
+        "san": "Nf6",
+        "games": 25902145,
+        "win_rate": 0.522
+      },
+      {
+        "uci": "d7d5",
+        "san": "d5",
+        "games": 15763217,
+        "win_rate": 0.532
+      },
+      {
+        "uci": "e7e6",
+        "san": "e6",
+        "games": 3478701,
+        "win_rate": 0.537
+      },
+      {
+        "uci": "c7c5",
+        "san": "c5",
+        "games": 2474848,
+        "win_rate": 0.516
+      },
+      {
+        "uci": "d7d6",
+        "san": "d6",
+        "games": 2355837,
+        "win_rate": 0.521
+      },
+      {
+        "uci": "g7g6",
+        "san": "g6",
+        "games": 2239140,
+        "win_rate": 0.514
+      },
+      {
+        "uci": "c7c6",
+        "san": "c6",
+        "games": 1470554,
+        "win_rate": 0.543
+      },
+      {
+        "uci": "f7f5",
+        "san": "f5",
+        "games": 1367381,
+        "win_rate": 0.531
+      },
+      {
+        "uci": "e7e5",
+        "san": "e5",
+        "games": 737273,
+        "win_rate": 0.535
+      },
+      {
+        "uci": "b8c6",
+        "san": "Nc6",
+        "games": 439892,
+        "win_rate": 0.504
+      },
+      {
+        "uci": "b7b6",
+        "san": "b6",
+        "games": 361719,
+        "win_rate": 0.542
+      },
+      {
+        "uci": "a7a6",
+        "san": "a6",
+        "games": 93600,
+        "win_rate": 0.514
+      }
+    ],
+    "move_sequence": "d4"
+  },
+  "rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2": {
+    "moves": [
+      {
+        "uci": "c2c4",
+        "san": "c4",
+        "games": 12711921,
+        "win_rate": 0.522
+      },
+      {
+        "uci": "g1f3",
+        "san": "Nf3",
+        "games": 6769727,
+        "win_rate": 0.523
+      },
+      {
+        "uci": "c1f4",
+        "san": "Bf4",
+        "games": 2173254,
+        "win_rate": 0.512
+      },
+      {
+        "uci": "c1g5",
+        "san": "Bg5",
+        "games": 1617743,
+        "win_rate": 0.535
+      },
+      {
+        "uci": "b1c3",
+        "san": "Nc3",
+        "games": 1465622,
+        "win_rate": 0.538
+      },
+      {
+        "uci": "e2e3",
+        "san": "e3",
+        "games": 478501,
+        "win_rate": 0.493
+      },
+      {
+        "uci": "c2c3",
+        "san": "c3",
+        "games": 294127,
+        "win_rate": 0.512
+      },
+      {
+        "uci": "g2g3",
+        "san": "g3",
+        "games": 158194,
+        "win_rate": 0.505
+      },
+      {
+        "uci": "f2f3",
+        "san": "f3",
+        "games": 53540,
+        "win_rate": 0.527
+      },
+      {
+        "uci": "f2f4",
+        "san": "f4",
+        "games": 46630,
+        "win_rate": 0.452
+      },
+      {
+        "uci": "b1d2",
+        "san": "Nd2",
+        "games": 30529,
+        "win_rate": 0.498
+      },
+      {
+        "uci": "e2e4",
+        "san": "e4",
+        "games": 26260,
+        "win_rate": 0.488
+      }
+    ],
+    "move_sequence": "d4 Nf6"
+  },
+  "rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2": {
+    "moves": [
+      {
+        "uci": "e7e6",
+        "san": "e6",
+        "games": 5116452,
+        "win_rate": 0.525
+      },
+      {
+        "uci": "g7g6",
+        "san": "g6",
+        "games": 4118766,
+        "win_rate": 0.521
+      },
+      {
+        "uci": "c7c5",
+        "san": "c5",
+        "games": 1996558,
+        "win_rate": 0.51
+      },
+      {
+        "uci": "e7e5",
+        "san": "e5",
+        "games": 608554,
+        "win_rate": 0.531
+      },
+      {
+        "uci": "d7d6",
+        "san": "d6",
+        "games": 424228,
+        "win_rate": 0.522
+      },
+      {
+        "uci": "c7c6",
+        "san": "c6",
+        "games": 157290,
+        "win_rate": 0.532
+      },
+      {
+        "uci": "d7d5",
+        "san": "d5",
+        "games": 126592,
+        "win_rate": 0.573
+      },
+      {
+        "uci": "b8c6",
+        "san": "Nc6",
+        "games": 116807,
+        "win_rate": 0.474
+      },
+      {
+        "uci": "b7b6",
+        "san": "b6",
+        "games": 105069,
+        "win_rate": 0.518
+      },
+      {
+        "uci": "a7a6",
+        "san": "a6",
+        "games": 27292,
+        "win_rate": 0.489
+      },
+      {
+        "uci": "b7b5",
+        "san": "b5",
+        "games": 4385,
+        "win_rate": 0.528
+      },
+      {
+        "uci": "g7g5",
+        "san": "g5",
+        "games": 2362,
+        "win_rate": 0.616
+      }
+    ],
+    "move_sequence": "d4 Nf6 c4"
+  },
+  "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3": {
+    "moves": [
+      {
+        "uci": "b1c3",
+        "san": "Nc3",
+        "games": 2931867,
+        "win_rate": 0.523
+      },
+      {
+        "uci": "g1f3",
+        "san": "Nf3",
+        "games": 1785056,
+        "win_rate": 0.526
+      },
+      {
+        "uci": "g2g3",
+        "san": "g3",
+        "games": 536293,
+        "win_rate": 0.546
+      },
+      {
+        "uci": "a2a3",
+        "san": "a3",
+        "games": 95260,
+        "win_rate": 0.488
+      },
+      {
+        "uci": "e2e3",
+        "san": "e3",
+        "games": 28009,
+        "win_rate": 0.483
+      },
+      {
+        "uci": "c1g5",
+        "san": "Bg5",
+        "games": 20582,
+        "win_rate": 0.483
+      },
+      {
+        "uci": "c1f4",
+        "san": "Bf4",
+        "games": 10832,
+        "win_rate": 0.532
+      },
+      {
+        "uci": "f2f3",
+        "san": "f3",
+        "games": 7356,
+        "win_rate": 0.478
+      },
+      {
+        "uci": "g2g4",
+        "san": "g4",
+        "games": 6746,
+        "win_rate": 0.539
+      },
+      {
+        "uci": "d1b3",
+        "san": "Qb3",
+        "games": 2463,
+        "win_rate": 0.548
+      },
+      {
+        "uci": "b1d2",
+        "san": "Nd2",
+        "games": 1659,
+        "win_rate": 0.517
+      },
+      {
+        "uci": "d1c2",
+        "san": "Qc2",
+        "games": 1566,
+        "win_rate": 0.499
+      }
+    ],
+    "move_sequence": "d4 Nf6 c4 e6"
+  },
+  "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3": {
+    "moves": [
+      {
+        "uci": "f8b4",
+        "san": "Bb4",
+        "games": 1984781,
+        "win_rate": 0.519
+      },
+      {
+        "uci": "d7d5",
+        "san": "d5",
+        "games": 776268,
+        "win_rate": 0.53
+      },
+      {
+        "uci": "c7c5",
+        "san": "c5",
+        "games": 145354,
+        "win_rate": 0.524
+      },
+      {
+        "uci": "b7b6",
+        "san": "b6",
+        "games": 61697,
+        "win_rate": 0.545
+      },
+      {
+        "uci": "f8e7",
+        "san": "Be7",
+        "games": 22989,
+        "win_rate": 0.57
+      },
+      {
+        "uci": "d7d6",
+        "san": "d6",
+        "games": 5335,
+        "win_rate": 0.57
+      },
+      {
+        "uci": "c7c6",
+        "san": "c6",
+        "games": 4522,
+        "win_rate": 0.599
+      },
+      {
+        "uci": "a7a6",
+        "san": "a6",
+        "games": 2874,
+        "win_rate": 0.56
+      },
+      {
+        "uci": "g7g6",
+        "san": "g6",
+        "games": 1884,
+        "win_rate": 0.598
+      },
+      {
+        "uci": "h7h6",
+        "san": "h6",
+        "games": 1058,
+        "win_rate": 0.565
+      },
+      {
+        "uci": "b8c6",
+        "san": "Nc6",
+        "games": 913,
+        "win_rate": 0.501
+      },
+      {
+        "uci": "f8c5",
+        "san": "Bc5",
+        "games": 326,
+        "win_rate": 0.801
+      }
+    ],
+    "move_sequence": "d4 Nf6 c4 e6 Nc3"
+  },
+  "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3": {
+    "moves": [
+      {
+        "uci": "d7d5",
+        "san": "d5",
+        "games": 1005435,
+        "win_rate": 0.532
+      },
+      {
+        "uci": "b7b6",
+        "san": "b6",
+        "games": 660395,
+        "win_rate": 0.518
+      },
+      {
+        "uci": "f8b4",
+        "san": "Bb4+",
+        "games": 562061,
+        "win_rate": 0.521
+      },
+      {
+        "uci": "c7c5",
+        "san": "c5",
+        "games": 256269,
+        "win_rate": 0.526
+      },
+      {
+        "uci": "f8e7",
+        "san": "Be7",
+        "games": 30436,
+        "win_rate": 0.566
+      },
+      {
+        "uci": "a7a6",
+        "san": "a6",
+        "games": 15107,
+        "win_rate": 0.486
+      },
+      {
+        "uci": "b8c6",
+        "san": "Nc6",
+        "games": 7341,
+        "win_rate": 0.487
+      },
+      {
+        "uci": "d7d6",
+        "san": "d6",
+        "games": 5814,
+        "win_rate": 0.573
+      },
+      {
+        "uci": "c7c6",
+        "san": "c6",
+        "games": 4008,
+        "win_rate": 0.593
+      },
+      {
+        "uci": "h7h6",
+        "san": "h6",
+        "games": 3709,
+        "win_rate": 0.537
+      },
+      {
+        "uci": "f6e4",
+        "san": "Ne4",
+        "games": 2386,
+        "win_rate": 0.525
+      },
+      {
+        "uci": "g7g6",
+        "san": "g6",
+        "games": 1910,
+        "win_rate": 0.569
+      }
+    ],
+    "move_sequence": "d4 Nf6 c4 e6 Nf3"
+  },
+  "rnbqkb1r/pppppp1p/5np1/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3": {
+    "moves": [
+      {
+        "uci": "b1c3",
+        "san": "Nc3",
+        "games": 3334446,
+        "win_rate": 0.521
+      },
+      {
+        "uci": "g1f3",
+        "san": "Nf3",
+        "games": 425394,
+        "win_rate": 0.518
+      },
+      {
+        "uci": "g2g3",
+        "san": "g3",
+        "games": 212446,
+        "win_rate": 0.531
+      },
+      {
+        "uci": "f2f3",
+        "san": "f3",
+        "games": 117395,
+        "win_rate": 0.536
+      },
+      {
+        "uci": "h2h4",
+        "san": "h4",
+        "games": 19451,
+        "win_rate": 0.517
+      },
+      {
+        "uci": "e2e3",
+        "san": "e3",
+        "games": 15654,
+        "win_rate": 0.462
+      },
+      {
+        "uci": "c1g5",
+        "san": "Bg5",
+        "games": 4088,
+        "win_rate": 0.455
+      },
+      {
+        "uci": "c1f4",
+        "san": "Bf4",
+        "games": 3187,
+        "win_rate": 0.457
+      },
+      {
+        "uci": "b2b3",
+        "san": "b3",
+        "games": 2028,
+        "win_rate": 0.459
+      },
+      {
+        "uci": "e2e4",
+        "san": "e4",
+        "games": 1958,
+        "win_rate": 0.455
+      },
+      {
+        "uci": "a2a3",
+        "san": "a3",
+        "games": 1956,
+        "win_rate": 0.45
+      },
+      {
+        "uci": "d1b3",
+        "san": "Qb3",
+        "games": 1741,
+        "win_rate": 0.553
+      }
+    ],
+    "move_sequence": "d4 Nf6 c4 g6"
+  },
+  "rnbqkb1r/pppppp1p/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3": {
+    "moves": [
+      {
+        "uci": "f8g7",
+        "san": "Bg7",
+        "games": 2254466,
+        "win_rate": 0.521
+      },
+      {
+        "uci": "d7d5",
+        "san": "d5",
+        "games": 1059695,
+        "win_rate": 0.519
+      },
+      {
+        "uci": "d7d6",
+        "san": "d6",
+        "games": 84560,
+        "win_rate": 0.54
+      },
+      {
+        "uci": "c7c5",
+        "san": "c5",
+        "games": 23154,
+        "win_rate": 0.523
+      },
+      {
+        "uci": "c7c6",
+        "san": "c6",
+        "games": 2090,
+        "win_rate": 0.591
+      },
+      {
+        "uci": "e7e6",
+        "san": "e6",
+        "games": 547,
+        "win_rate": 0.639
+      },
+      {
+        "uci": "b7b6",
+        "san": "b6",
+        "games": 521,
+        "win_rate": 0.571
+      },
+      {
+        "uci": "f8h6",
+        "san": "Bh6",
+        "games": 224,
+        "win_rate": 0.85
+      },
+      {
+        "uci": "a7a6",
+        "san": "a6",
+        "games": 113,
+        "win_rate": 0.531
+      }
+    ],
+    "move_sequence": "d4 Nf6 c4 g6 Nc3"
+  },
+  "rnbqkb1r/pppppp1p/5np1/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3": {
+    "moves": [
+      {
+        "uci": "f8g7",
+        "san": "Bg7",
+        "games": 1260479,
+        "win_rate": 0.518
+      },
+      {
+        "uci": "d7d5",
+        "san": "d5",
+        "games": 60115,
+        "win_rate": 0.548
+      },
+      {
+        "uci": "c7c5",
+        "san": "c5",
+        "games": 47624,
+        "win_rate": 0.521
+      },
+      {
+        "uci": "d7d6",
+        "san": "d6",
+        "games": 30297,
+        "win_rate": 0.546
+      },
+      {
+        "uci": "c7c6",
+        "san": "c6",
+        "games": 2671,
+        "win_rate": 0.565
+      },
+      {
+        "uci": "b7b6",
+        "san": "b6",
+        "games": 792,
+        "win_rate": 0.568
+      },
+      {
+        "uci": "e7e6",
+        "san": "e6",
+        "games": 421,
+        "win_rate": 0.589
+      },
+      {
+        "uci": "f8h6",
+        "san": "Bh6",
+        "games": 150,
+        "win_rate": 0.763
+      }
+    ],
+    "move_sequence": "d4 Nf6 c4 g6 Nf3"
+  },
+  "rnbqkb1r/pppppppp/5n2/8/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 2 2": {
+    "moves": [
+      {
+        "uci": "g7g6",
+        "san": "g6",
+        "games": 2724903,
+        "win_rate": 0.519
+      },
+      {
+        "uci": "e7e6",
+        "san": "e6",
+        "games": 2148383,
+        "win_rate": 0.524
+      },
+      {
+        "uci": "d7d5",
+        "san": "d5",
+        "games": 1273274,
+        "win_rate": 0.53
+      },
+      {
+        "uci": "c7c5",
+        "san": "c5",
+        "games": 828441,
+        "win_rate": 0.51
+      },
+      {
+        "uci": "d7d6",
+        "san": "d6",
+        "games": 321905,
+        "win_rate": 0.537
+      },
+      {
+        "uci": "b7b6",
+        "san": "b6",
+        "games": 188445,
+        "win_rate": 0.517
+      },
+      {
+        "uci": "c7c6",
+        "san": "c6",
+        "games": 53285,
+        "win_rate": 0.55
+      },
+      {
+        "uci": "b7b5",
+        "san": "b5",
+        "games": 24888,
+        "win_rate": 0.501
+      },
+      {
+        "uci": "b8c6",
+        "san": "Nc6",
+        "games": 10554,
+        "win_rate": 0.529
+      },
+      {
+        "uci": "a7a6",
+        "san": "a6",
+        "games": 4693,
+        "win_rate": 0.538
+      },
+      {
+        "uci": "h7h6",
+        "san": "h6",
+        "games": 3846,
+        "win_rate": 0.531
+      },
+      {
+        "uci": "e7e5",
+        "san": "e5",
+        "games": 3589,
+        "win_rate": 0.586
+      }
+    ],
+    "move_sequence": "d4 Nf6 Nf3"
+  },
+  "rnbqkb1r/pppppp1p/5np1/8/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3": {
+    "moves": [
+      {
+        "uci": "c2c4",
+        "san": "c4",
+        "games": 901305,
+        "win_rate": 0.52
+      },
+      {
+        "uci": "g2g3",
+        "san": "g3",
+        "games": 481842,
+        "win_rate": 0.512
+      },
+      {
+        "uci": "c1f4",
+        "san": "Bf4",
+        "games": 473447,
+        "win_rate": 0.521
+      },
+      {
+        "uci": "c1g5",
+        "san": "Bg5",
+        "games": 302178,
+        "win_rate": 0.529
+      },
+      {
+        "uci": "b1c3",
+        "san": "Nc3",
+        "games": 215782,
+        "win_rate": 0.537
+      },
+      {
+        "uci": "e2e3",
+        "san": "e3",
+        "games": 146109,
+        "win_rate": 0.492
+      },
+      {
+        "uci": "c2c3",
+        "san": "c3",
+        "games": 92347,
+        "win_rate": 0.513
+      },
+      {
+        "uci": "b1d2",
+        "san": "Nbd2",
+        "games": 72184,
+        "win_rate": 0.543
+      },
+      {
+        "uci": "b2b3",
+        "san": "b3",
+        "games": 26841,
+        "win_rate": 0.49
+      },
+      {
+        "uci": "h2h4",
+        "san": "h4",
+        "games": 10824,
+        "win_rate": 0.487
+      },
+      {
+        "uci": "h2h3",
+        "san": "h3",
+        "games": 8881,
+        "win_rate": 0.509
+      },
+      {
+        "uci": "b2b4",
+        "san": "b4",
+        "games": 4269,
+        "win_rate": 0.518
+      }
+    ],
+    "move_sequence": "d4 Nf6 Nf3 g6"
+  },
+  "rnbqkb1r/pppppp1p/5np1/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3": {
+    "moves": [
+      {
+        "uci": "f8g7",
+        "san": "Bg7",
+        "games": 1260479,
+        "win_rate": 0.518
+      },
+      {
+        "uci": "d7d5",
+        "san": "d5",
+        "games": 60115,
+        "win_rate": 0.548
+      },
+      {
+        "uci": "c7c5",
+        "san": "c5",
+        "games": 47624,
+        "win_rate": 0.521
+      },
+      {
+        "uci": "d7d6",
+        "san": "d6",
+        "games": 30297,
+        "win_rate": 0.546
+      },
+      {
+        "uci": "c7c6",
+        "san": "c6",
+        "games": 2671,
+        "win_rate": 0.565
+      },
+      {
+        "uci": "b7b6",
+        "san": "b6",
+        "games": 792,
+        "win_rate": 0.568
+      },
+      {
+        "uci": "e7e6",
+        "san": "e6",
+        "games": 421,
+        "win_rate": 0.589
+      },
+      {
+        "uci": "f8h6",
+        "san": "Bh6",
+        "games": 150,
+        "win_rate": 0.763
+      }
+    ],
+    "move_sequence": "d4 Nf6 Nf3 g6 c4"
+  },
+  "rnbqkb1r/pppppp1p/5np1/8/3P4/5NP1/PPP1PP1P/RNBQKB1R b KQkq - 0 3": {
+    "moves": [
+      {
+        "uci": "f8g7",
+        "san": "Bg7",
+        "games": 458500,
+        "win_rate": 0.511
+      },
+      {
+        "uci": "d7d5",
+        "san": "d5",
+        "games": 15441,
+        "win_rate": 0.525
+      },
+      {
+        "uci": "d7d6",
+        "san": "d6",
+        "games": 7422,
+        "win_rate": 0.546
+      },
+      {
+        "uci": "c7c5",
+        "san": "c5",
+        "games": 4404,
+        "win_rate": 0.5
+      },
+      {
+        "uci": "b7b6",
+        "san": "b6",
+        "games": 2213,
+        "win_rate": 0.53
+      },
+      {
+        "uci": "c7c6",
+        "san": "c6",
+        "games": 954,
+        "win_rate": 0.561
+      },
+      {
+        "uci": "b7b5",
+        "san": "b5",
+        "games": 420,
+        "win_rate": 0.482
+      },
+      {
+        "uci": "h7h5",
+        "san": "h5",
+        "games": 151,
+        "win_rate": 0.53
+      }
+    ],
+    "move_sequence": "d4 Nf6 Nf3 g6 g3"
+  },
+  "rnbqkb1r/pppp1ppp/4pn2/8/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3": {
+    "moves": [
+      {
+        "uci": "c2c4",
+        "san": "c4",
+        "games": 721348,
+        "win_rate": 0.525
+      },
+      {
+        "uci": "c1f4",
+        "san": "Bf4",
+        "games": 444324,
+        "win_rate": 0.523
+      },
+      {
+        "uci": "g2g3",
+        "san": "g3",
+        "games": 393360,
+        "win_rate": 0.527
+      },
+      {
+        "uci": "c1g5",
+        "san": "Bg5",
+        "games": 360249,
+        "win_rate": 0.524
+      },
+      {
+        "uci": "e2e3",
+        "san": "e3",
+        "games": 270199,
+        "win_rate": 0.519
+      },
+      {
+        "uci": "c2c3",
+        "san": "c3",
+        "games": 67096,
+        "win_rate": 0.521
+      },
+      {
+        "uci": "b1d2",
+        "san": "Nbd2",
+        "games": 37796,
+        "win_rate": 0.541
+      },
+      {
+        "uci": "b1c3",
+        "san": "Nc3",
+        "games": 33367,
+        "win_rate": 0.519
+      },
+      {
+        "uci": "b2b3",
+        "san": "b3",
+        "games": 11515,
+        "win_rate": 0.493
+      },
+      {
+        "uci": "a2a3",
+        "san": "a3",
+        "games": 5994,
+        "win_rate": 0.494
+      },
+      {
+        "uci": "h2h3",
+        "san": "h3",
+        "games": 3712,
+        "win_rate": 0.495
+      },
+      {
+        "uci": "e2e4",
+        "san": "e4",
+        "games": 1619,
+        "win_rate": 0.478
+      }
+    ],
+    "move_sequence": "d4 Nf6 Nf3 e6"
+  },
+  "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3": {
+    "moves": [
+      {
+        "uci": "d7d5",
+        "san": "d5",
+        "games": 1005435,
+        "win_rate": 0.532
+      },
+      {
+        "uci": "b7b6",
+        "san": "b6",
+        "games": 660395,
+        "win_rate": 0.518
+      },
+      {
+        "uci": "f8b4",
+        "san": "Bb4+",
+        "games": 562061,
+        "win_rate": 0.521
+      },
+      {
+        "uci": "c7c5",
+        "san": "c5",
+        "games": 256269,
+        "win_rate": 0.526
+      },
+      {
+        "uci": "f8e7",
+        "san": "Be7",
+        "games": 30436,
+        "win_rate": 0.566
+      },
+      {
+        "uci": "a7a6",
+        "san": "a6",
+        "games": 15107,
+        "win_rate": 0.486
+      },
+      {
+        "uci": "b8c6",
+        "san": "Nc6",
+        "games": 7341,
+        "win_rate": 0.487
+      },
+      {
+        "uci": "d7d6",
+        "san": "d6",
+        "games": 5814,
+        "win_rate": 0.573
+      },
+      {
+        "uci": "c7c6",
+        "san": "c6",
+        "games": 4008,
+        "win_rate": 0.593
+      },
+      {
+        "uci": "h7h6",
+        "san": "h6",
+        "games": 3709,
+        "win_rate": 0.537
+      },
+      {
+        "uci": "f6e4",
+        "san": "Ne4",
+        "games": 2386,
+        "win_rate": 0.525
+      },
+      {
+        "uci": "g7g6",
+        "san": "g6",
+        "games": 1910,
+        "win_rate": 0.569
+      }
+    ],
+    "move_sequence": "d4 Nf6 Nf3 e6 c4"
+  },
+  "rnbqkb1r/pppp1ppp/4pn2/8/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3": {
+    "moves": [
+      {
+        "uci": "d7d5",
+        "san": "d5",
+        "games": 192425,
+        "win_rate": 0.533
+      },
+      {
+        "uci": "c7c5",
+        "san": "c5",
+        "games": 149817,
+        "win_rate": 0.51
+      },
+      {
+        "uci": "b7b6",
+        "san": "b6",
+        "games": 105033,
+        "win_rate": 0.51
+      },
+      {
+        "uci": "f8e7",
+        "san": "Be7",
+        "games": 18120,
+        "win_rate": 0.525
+      },
+      {
+        "uci": "d7d6",
+        "san": "d6",
+        "games": 12319,
+        "win_rate": 0.526
+      },
+      {
+        "uci": "f8d6",
+        "san": "Bd6",
+        "games": 12022,
+        "win_rate": 0.497
+      },
+      {
+        "uci": "b7b5",
+        "san": "b5",
+        "games": 3501,
+        "win_rate": 0.499
+      },
+      {
+        "uci": "f6h5",
+        "san": "Nh5",
+        "games": 1469,
+        "win_rate": 0.496
+      },
+      {
+        "uci": "g7g6",
+        "san": "g6",
+        "games": 1317,
+        "win_rate": 0.543
+      },
+      {
+        "uci": "h7h6",
+        "san": "h6",
+        "games": 1306,
+        "win_rate": 0.503
+      },
+      {
+        "uci": "f8b4",
+        "san": "Bb4+",
+        "games": 1028,
+        "win_rate": 0.576
+      },
+      {
+        "uci": "b8c6",
+        "san": "Nc6",
+        "games": 956,
+        "win_rate": 0.517
+      }
+    ],
+    "move_sequence": "d4 Nf6 Nf3 e6 Bf4"
+  },
+  "rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2": {
+    "moves": [
+      {
+        "uci": "c2c4",
+        "san": "c4",
+        "games": 7993828,
+        "win_rate": 0.533
+      },
+      {
+        "uci": "g1f3",
+        "san": "Nf3",
+        "games": 4106783,
+        "win_rate": 0.532
+      },
+      {
+        "uci": "c1f4",
+        "san": "Bf4",
+        "games": 1678054,
+        "win_rate": 0.529
+      },
+      {
+        "uci": "b1c3",
+        "san": "Nc3",
+        "games": 768311,
+        "win_rate": 0.543
+      },
+      {
+        "uci": "c1g5",
+        "san": "Bg5",
+        "games": 400649,
+        "win_rate": 0.549
+      },
+      {
+        "uci": "e2e3",
+        "san": "e3",
+        "games": 349234,
+        "win_rate": 0.511
+      },
+      {
+        "uci": "c2c3",
+        "san": "c3",
+        "games": 169091,
+        "win_rate": 0.526
+      },
+      {
+        "uci": "e2e4",
+        "san": "e4",
+        "games": 161648,
+        "win_rate": 0.532
+      },
+      {
+        "uci": "g2g3",
+        "san": "g3",
+        "games": 59016,
+        "win_rate": 0.506
+      },
+      {
+        "uci": "f2f4",
+        "san": "f4",
+        "games": 35547,
+        "win_rate": 0.472
+      },
+      {
+        "uci": "b1d2",
+        "san": "Nd2",
+        "games": 9479,
+        "win_rate": 0.513
+      },
+      {
+        "uci": "b2b3",
+        "san": "b3",
+        "games": 6251,
+        "win_rate": 0.484
+      }
+    ],
+    "move_sequence": "d4 d5"
+  },
+  "rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2": {
+    "moves": [
+      {
+        "uci": "e7e6",
+        "san": "e6",
+        "games": 3288885,
+        "win_rate": 0.533
+      },
+      {
+        "uci": "c7c6",
+        "san": "c6",
+        "games": 2825674,
+        "win_rate": 0.539
+      },
+      {
+        "uci": "d5c4",
+        "san": "dxc4",
+        "games": 812563,
+        "win_rate": 0.51
+      },
+      {
+        "uci": "e7e5",
+        "san": "e5",
+        "games": 358682,
+        "win_rate": 0.523
+      },
+      {
+        "uci": "g8f6",
+        "san": "Nf6",
+        "games": 295594,
+        "win_rate": 0.579
+      },
+      {
+        "uci": "b8c6",
+        "san": "Nc6",
+        "games": 215334,
+        "win_rate": 0.52
+      },
+      {
+        "uci": "c8f5",
+        "san": "Bf5",
+        "games": 100733,
+        "win_rate": 0.501
+      },
+      {
+        "uci": "c7c5",
+        "san": "c5",
+        "games": 91471,
+        "win_rate": 0.505
+      },
+      {
+        "uci": "g7g6",
+        "san": "g6",
+        "games": 3254,
+        "win_rate": 0.608
+      },
+      {
+        "uci": "c8g4",
+        "san": "Bg4",
+        "games": 896,
+        "win_rate": 0.64
+      },
+      {
+        "uci": "b7b6",
+        "san": "b6",
+        "games": 570,
+        "win_rate": 0.611
+      },
+      {
+        "uci": "c8e6",
+        "san": "Be6",
+        "games": 535,
+        "win_rate": 0.614
+      }
+    ],
+    "move_sequence": "d4 d5 c4"
+  },
+  "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3": {
+    "moves": [
+      {
+        "uci": "b1c3",
+        "san": "Nc3",
+        "games": 2482573,
+        "win_rate": 0.531
+      },
+      {
+        "uci": "g1f3",
+        "san": "Nf3",
+        "games": 1147292,
+        "win_rate": 0.549
+      },
+      {
+        "uci": "c4d5",
+        "san": "cxd5",
+        "games": 179142,
+        "win_rate": 0.532
+      },
+      {
+        "uci": "g2g3",
+        "san": "g3",
+        "games": 89758,
+        "win_rate": 0.544
+      },
+      {
+        "uci": "e2e3",
+        "san": "e3",
+        "games": 72655,
+        "win_rate": 0.509
+      },
+      {
+        "uci": "a2a3",
+        "san": "a3",
+        "games": 10890,
+        "win_rate": 0.484
+      },
+      {
+        "uci": "c1f4",
+        "san": "Bf4",
+        "games": 5137,
+        "win_rate": 0.496
+      },
+      {
+        "uci": "e2e4",
+        "san": "e4",
+        "games": 2834,
+        "win_rate": 0.538
+      },
+      {
+        "uci": "d1b3",
+        "san": "Qb3",
+        "games": 1770,
+        "win_rate": 0.531
+      },
+      {
+        "uci": "c4c5",
+        "san": "c5",
+        "games": 1643,
+        "win_rate": 0.459
+      },
+      {
+        "uci": "b1d2",
+        "san": "Nd2",
+        "games": 1158,
+        "win_rate": 0.516
+      },
+      {
+        "uci": "f2f3",
+        "san": "f3",
+        "games": 866,
+        "win_rate": 0.488
+      }
+    ],
+    "move_sequence": "d4 d5 c4 e6"
+  },
+  "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3": {
+    "moves": [
+      {
+        "uci": "g8f6",
+        "san": "Nf6",
+        "games": 1502852,
+        "win_rate": 0.54
+      },
+      {
+        "uci": "c7c6",
+        "san": "c6",
+        "games": 408148,
+        "win_rate": 0.529
+      },
+      {
+        "uci": "c7c5",
+        "san": "c5",
+        "games": 246656,
+        "win_rate": 0.485
+      },
+      {
+        "uci": "f8e7",
+        "san": "Be7",
+        "games": 154182,
+        "win_rate": 0.514
+      },
+      {
+        "uci": "a7a6",
+        "san": "a6",
+        "games": 114016,
+        "win_rate": 0.506
+      },
+      {
+        "uci": "f7f5",
+        "san": "f5",
+        "games": 112957,
+        "win_rate": 0.536
+      },
+      {
+        "uci": "f8b4",
+        "san": "Bb4",
+        "games": 72515,
+        "win_rate": 0.519
+      },
+      {
+        "uci": "d5c4",
+        "san": "dxc4",
+        "games": 31990,
+        "win_rate": 0.544
+      },
+      {
+        "uci": "h7h6",
+        "san": "h6",
+        "games": 26385,
+        "win_rate": 0.536
+      },
+      {
+        "uci": "b7b6",
+        "san": "b6",
+        "games": 2830,
+        "win_rate": 0.582
+      },
+      {
+        "uci": "b8c6",
+        "san": "Nc6",
+        "games": 2753,
+        "win_rate": 0.535
+      },
+      {
+        "uci": "g7g6",
+        "san": "g6",
+        "games": 1318,
+        "win_rate": 0.599
+      }
+    ],
+    "move_sequence": "d4 d5 c4 e6 Nc3"
+  },
+  "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3": {
+    "moves": [
+      {
+        "uci": "g8f6",
+        "san": "Nf6",
+        "games": 1048428,
+        "win_rate": 0.552
+      },
+      {
+        "uci": "c7c6",
+        "san": "c6",
+        "games": 272611,
+        "win_rate": 0.551
+      },
+      {
+        "uci": "c7c5",
+        "san": "c5",
+        "games": 125125,
+        "win_rate": 0.533
+      },
+      {
+        "uci": "f7f5",
+        "san": "f5",
+        "games": 71602,
+        "win_rate": 0.547
+      },
+      {
+        "uci": "a7a6",
+        "san": "a6",
+        "games": 71036,
+        "win_rate": 0.518
+      },
+      {
+        "uci": "f8e7",
+        "san": "Be7",
+        "games": 40868,
+        "win_rate": 0.546
+      },
+      {
+        "uci": "d5c4",
+        "san": "dxc4",
+        "games": 34426,
+        "win_rate": 0.55
+      },
+      {
+        "uci": "h7h6",
+        "san": "h6",
+        "games": 15121,
+        "win_rate": 0.561
+      },
+      {
+        "uci": "f8b4",
+        "san": "Bb4+",
+        "games": 7340,
+        "win_rate": 0.576
+      },
+      {
+        "uci": "b8c6",
+        "san": "Nc6",
+        "games": 2870,
+        "win_rate": 0.536
+      },
+      {
+        "uci": "b7b6",
+        "san": "b6",
+        "games": 2460,
+        "win_rate": 0.585
+      },
+      {
+        "uci": "b8d7",
+        "san": "Nd7",
+        "games": 2265,
+        "win_rate": 0.547
+      }
+    ],
+    "move_sequence": "d4 d5 c4 e6 Nf3"
+  },
+  "rnbqkbnr/pp2pppp/2p5/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3": {
+    "moves": [
+      {
+        "uci": "b1c3",
+        "san": "Nc3",
+        "games": 1472463,
+        "win_rate": 0.53
+      },
+      {
+        "uci": "g1f3",
+        "san": "Nf3",
+        "games": 1244333,
+        "win_rate": 0.548
+      },
+      {
+        "uci": "c4d5",
+        "san": "cxd5",
+        "games": 536186,
+        "win_rate": 0.56
+      },
+      {
+        "uci": "e2e3",
+        "san": "e3",
+        "games": 127324,
+        "win_rate": 0.525
+      },
+      {
+        "uci": "g2g3",
+        "san": "g3",
+        "games": 24850,
+        "win_rate": 0.516
+      },
+      {
+        "uci": "c1f4",
+        "san": "Bf4",
+        "games": 6556,
+        "win_rate": 0.531
+      },
+      {
+        "uci": "d1c2",
+        "san": "Qc2",
+        "games": 5637,
+        "win_rate": 0.515
+      },
+      {
+        "uci": "b1d2",
+        "san": "Nd2",
+        "games": 4889,
+        "win_rate": 0.544
+      },
+      {
+        "uci": "e2e4",
+        "san": "e4",
+        "games": 2816,
+        "win_rate": 0.503
+      },
+      {
+        "uci": "c4c5",
+        "san": "c5",
+        "games": 2449,
+        "win_rate": 0.459
+      },
+      {
+        "uci": "d1b3",
+        "san": "Qb3",
+        "games": 2262,
+        "win_rate": 0.532
+      },
+      {
+        "uci": "f2f3",
+        "san": "f3",
+        "games": 888,
+        "win_rate": 0.511
+      }
+    ],
+    "move_sequence": "d4 d5 c4 c6"
+  },
+  "rnbqkbnr/pp2pppp/2p5/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3": {
+    "moves": [
+      {
+        "uci": "g8f6",
+        "san": "Nf6",
+        "games": 1242856,
+        "win_rate": 0.526
+      },
+      {
+        "uci": "e7e6",
+        "san": "e6",
+        "games": 185985,
+        "win_rate": 0.553
+      },
+      {
+        "uci": "d5c4",
+        "san": "dxc4",
+        "games": 75729,
+        "win_rate": 0.505
+      },
+      {
+        "uci": "e7e5",
+        "san": "e5",
+        "games": 21819,
+        "win_rate": 0.49
+      },
+      {
+        "uci": "c8f5",
+        "san": "Bf5",
+        "games": 13106,
+        "win_rate": 0.606
+      },
+      {
+        "uci": "a7a6",
+        "san": "a6",
+        "games": 9899,
+        "win_rate": 0.529
+      },
+      {
+        "uci": "g7g6",
+        "san": "g6",
+        "games": 6155,
+        "win_rate": 0.577
+      },
+      {
+        "uci": "f7f5",
+        "san": "f5",
+        "games": 5625,
+        "win_rate": 0.573
+      },
+      {
+        "uci": "h7h6",
+        "san": "h6",
+        "games": 981,
+        "win_rate": 0.577
+      },
+      {
+        "uci": "f7f6",
+        "san": "f6",
+        "games": 904,
+        "win_rate": 0.625
+      },
+      {
+        "uci": "c8g4",
+        "san": "Bg4",
+        "games": 601,
+        "win_rate": 0.663
+      },
+      {
+        "uci": "c6c5",
+        "san": "c5",
+        "games": 369,
+        "win_rate": 0.657
+      }
+    ],
+    "move_sequence": "d4 d5 c4 c6 Nc3"
+  },
+  "rnbqkbnr/pp2pppp/2p5/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3": {
+    "moves": [
+      {
+        "uci": "g8f6",
+        "san": "Nf6",
+        "games": 1404574,
+        "win_rate": 0.545
+      },
+      {
+        "uci": "e7e6",
+        "san": "e6",
+        "games": 221684,
+        "win_rate": 0.565
+      },
+      {
+        "uci": "c8f5",
+        "san": "Bf5",
+        "games": 44994,
+        "win_rate": 0.578
+      },
+      {
+        "uci": "d5c4",
+        "san": "dxc4",
+        "games": 41653,
+        "win_rate": 0.549
+      },
+      {
+        "uci": "c8g4",
+        "san": "Bg4",
+        "games": 20673,
+        "win_rate": 0.605
+      },
+      {
+        "uci": "g7g6",
+        "san": "g6",
+        "games": 10670,
+        "win_rate": 0.602
+      },
+      {
+        "uci": "a7a6",
+        "san": "a6",
+        "games": 8902,
+        "win_rate": 0.563
+      },
+      {
+        "uci": "f7f5",
+        "san": "f5",
+        "games": 4969,
+        "win_rate": 0.589
+      },
+      {
+        "uci": "b8d7",
+        "san": "Nd7",
+        "games": 2822,
+        "win_rate": 0.595
+      },
+      {
+        "uci": "h7h6",
+        "san": "h6",
+        "games": 1503,
+        "win_rate": 0.595
+      },
+      {
+        "uci": "f7f6",
+        "san": "f6",
+        "games": 1200,
+        "win_rate": 0.641
+      },
+      {
+        "uci": "d8b6",
+        "san": "Qb6",
+        "games": 717,
+        "win_rate": 0.494
+      }
+    ],
+    "move_sequence": "d4 d5 c4 c6 Nf3"
+  },
+  "rnbqkbnr/ppp1pppp/8/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 1 2": {
+    "moves": [
+      {
+        "uci": "g8f6",
+        "san": "Nf6",
+        "games": 2676335,
+        "win_rate": 0.526
+      },
+      {
+        "uci": "e7e6",
+        "san": "e6",
+        "games": 772520,
+        "win_rate": 0.541
+      },
+      {
+        "uci": "c7c6",
+        "san": "c6",
+        "games": 734062,
+        "win_rate": 0.539
+      },
+      {
+        "uci": "c7c5",
+        "san": "c5",
+        "games": 315316,
+        "win_rate": 0.525
+      },
+      {
+        "uci": "c8f5",
+        "san": "Bf5",
+        "games": 224418,
+        "win_rate": 0.534
+      },
+      {
+        "uci": "b8c6",
+        "san": "Nc6",
+        "games": 223289,
+        "win_rate": 0.544
+      },
+      {
+        "uci": "c8g4",
+        "san": "Bg4",
+        "games": 50209,
+        "win_rate": 0.555
+      },
+      {
+        "uci": "g7g6",
+        "san": "g6",
+        "games": 25141,
+        "win_rate": 0.574
+      },
+      {
+        "uci": "f7f5",
+        "san": "f5",
+        "games": 16426,
+        "win_rate": 0.544
+      },
+      {
+        "uci": "a7a6",
+        "san": "a6",
+        "games": 7451,
+        "win_rate": 0.511
+      },
+      {
+        "uci": "e7e5",
+        "san": "e5",
+        "games": 6703,
+        "win_rate": 0.548
+      },
+      {
+        "uci": "b8d7",
+        "san": "Nd7",
+        "games": 6078,
+        "win_rate": 0.551
+      }
+    ],
+    "move_sequence": "d4 d5 Nf3"
+  },
+  "rnbqkb1r/ppp1pppp/5n2/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 2 3": {
+    "moves": [
+      {
+        "uci": "c2c4",
+        "san": "c4",
+        "games": 1584530,
+        "win_rate": 0.539
+      },
+      {
+        "uci": "c1f4",
+        "san": "Bf4",
+        "games": 924082,
+        "win_rate": 0.523
+      },
+      {
+        "uci": "g2g3",
+        "san": "g3",
+        "games": 496214,
+        "win_rate": 0.523
+      },
+      {
+        "uci": "e2e3",
+        "san": "e3",
+        "games": 445499,
+        "win_rate": 0.514
+      },
+      {
+        "uci": "c1g5",
+        "san": "Bg5",
+        "games": 252535,
+        "win_rate": 0.52
+      },
+      {
+        "uci": "c2c3",
+        "san": "c3",
+        "games": 133319,
+        "win_rate": 0.514
+      },
+      {
+        "uci": "b1c3",
+        "san": "Nc3",
+        "games": 44826,
+        "win_rate": 0.516
+      },
+      {
+        "uci": "b1d2",
+        "san": "Nbd2",
+        "games": 31041,
+        "win_rate": 0.509
+      },
+      {
+        "uci": "b2b3",
+        "san": "b3",
+        "games": 14621,
+        "win_rate": 0.496
+      },
+      {
+        "uci": "h2h3",
+        "san": "h3",
+        "games": 12591,
+        "win_rate": 0.477
+      },
+      {
+        "uci": "a2a3",
+        "san": "a3",
+        "games": 3469,
+        "win_rate": 0.516
+      },
+      {
+        "uci": "f3e5",
+        "san": "Ne5",
+        "games": 2276,
+        "win_rate": 0.488
+      }
+    ],
+    "move_sequence": "d4 d5 Nf3 Nf6"
+  },
+  "rnbqkb1r/ppp1pppp/5n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3": {
+    "moves": [
+      {
+        "uci": "e7e6",
+        "san": "e6",
+        "games": 732459,
+        "win_rate": 0.537
+      },
+      {
+        "uci": "c7c6",
+        "san": "c6",
+        "games": 647311,
+        "win_rate": 0.545
+      },
+      {
+        "uci": "d5c4",
+        "san": "dxc4",
+        "games": 159083,
+        "win_rate": 0.513
+      },
+      {
+        "uci": "g7g6",
+        "san": "g6",
+        "games": 40358,
+        "win_rate": 0.56
+      },
+      {
+        "uci": "c7c5",
+        "san": "c5",
+        "games": 25753,
+        "win_rate": 0.532
+      },
+      {
+        "uci": "c8f5",
+        "san": "Bf5",
+        "games": 18252,
+        "win_rate": 0.59
+      },
+      {
+        "uci": "c8g4",
+        "san": "Bg4",
+        "games": 10485,
+        "win_rate": 0.619
+      },
+      {
+        "uci": "b8c6",
+        "san": "Nc6",
+        "games": 6500,
+        "win_rate": 0.613
+      },
+      {
+        "uci": "b7b6",
+        "san": "b6",
+        "games": 742,
+        "win_rate": 0.574
+      },
+      {
+        "uci": "b8d7",
+        "san": "Nbd7",
+        "games": 697,
+        "win_rate": 0.565
+      },
+      {
+        "uci": "a7a6",
+        "san": "a6",
+        "games": 617,
+        "win_rate": 0.608
+      },
+      {
+        "uci": "e7e5",
+        "san": "e5",
+        "games": 547,
+        "win_rate": 0.619
+      }
+    ],
+    "move_sequence": "d4 d5 Nf3 Nf6 c4"
+  },
+  "rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 3 3": {
+    "moves": [
+      {
+        "uci": "c7c5",
+        "san": "c5",
+        "games": 432980,
+        "win_rate": 0.492
+      },
+      {
+        "uci": "e7e6",
+        "san": "e6",
+        "games": 259177,
+        "win_rate": 0.532
+      },
+      {
+        "uci": "c8f5",
+        "san": "Bf5",
+        "games": 153014,
+        "win_rate": 0.539
+      },
+      {
+        "uci": "c7c6",
+        "san": "c6",
+        "games": 93171,
+        "win_rate": 0.552
+      },
+      {
+        "uci": "g7g6",
+        "san": "g6",
+        "games": 49605,
+        "win_rate": 0.535
+      },
+      {
+        "uci": "c8g4",
+        "san": "Bg4",
+        "games": 20289,
+        "win_rate": 0.549
+      },
+      {
+        "uci": "b8c6",
+        "san": "Nc6",
+        "games": 11436,
+        "win_rate": 0.564
+      },
+      {
+        "uci": "b8d7",
+        "san": "Nbd7",
+        "games": 5167,
+        "win_rate": 0.567
+      },
+      {
+        "uci": "a7a6",
+        "san": "a6",
+        "games": 3371,
+        "win_rate": 0.54
+      },
+      {
+        "uci": "f6h5",
+        "san": "Nh5",
+        "games": 2371,
+        "win_rate": 0.489
+      },
+      {
+        "uci": "b7b6",
+        "san": "b6",
+        "games": 2122,
+        "win_rate": 0.554
+      },
+      {
+        "uci": "f6e4",
+        "san": "Ne4",
+        "games": 1533,
+        "win_rate": 0.539
+      }
+    ],
+    "move_sequence": "d4 d5 Nf3 Nf6 Bf4"
+  },
+  "rnbqkbnr/ppp2ppp/4p3/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3": {
+    "moves": [
+      {
+        "uci": "c2c4",
+        "san": "c4",
+        "games": 447889,
+        "win_rate": 0.551
+      },
+      {
+        "uci": "c1f4",
+        "san": "Bf4",
+        "games": 287883,
+        "win_rate": 0.546
+      },
+      {
+        "uci": "g2g3",
+        "san": "g3",
+        "games": 169534,
+        "win_rate": 0.55
+      },
+      {
+        "uci": "e2e3",
+        "san": "e3",
+        "games": 152150,
+        "win_rate": 0.534
+      },
+      {
+        "uci": "c1g5",
+        "san": "Bg5",
+        "games": 96291,
+        "win_rate": 0.543
+      },
+      {
+        "uci": "c2c3",
+        "san": "c3",
+        "games": 42152,
+        "win_rate": 0.543
+      },
+      {
+        "uci": "b1c3",
+        "san": "Nc3",
+        "games": 14623,
+        "win_rate": 0.549
+      },
+      {
+        "uci": "b1d2",
+        "san": "Nbd2",
+        "games": 11021,
+        "win_rate": 0.549
+      },
+      {
+        "uci": "b2b3",
+        "san": "b3",
+        "games": 5256,
+        "win_rate": 0.509
+      },
+      {
+        "uci": "a2a3",
+        "san": "a3",
+        "games": 1770,
+        "win_rate": 0.505
+      },
+      {
+        "uci": "h2h3",
+        "san": "h3",
+        "games": 1448,
+        "win_rate": 0.503
+      },
+      {
+        "uci": "e2e4",
+        "san": "e4",
+        "games": 597,
+        "win_rate": 0.515
+      }
+    ],
+    "move_sequence": "d4 d5 Nf3 e6"
+  },
+  "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3": {
+    "moves": [
+      {
+        "uci": "g8f6",
+        "san": "Nf6",
+        "games": 1048428,
+        "win_rate": 0.552
+      },
+      {
+        "uci": "c7c6",
+        "san": "c6",
+        "games": 272611,
+        "win_rate": 0.551
+      },
+      {
+        "uci": "c7c5",
+        "san": "c5",
+        "games": 125125,
+        "win_rate": 0.533
+      },
+      {
+        "uci": "f7f5",
+        "san": "f5",
+        "games": 71602,
+        "win_rate": 0.547
+      },
+      {
+        "uci": "a7a6",
+        "san": "a6",
+        "games": 71036,
+        "win_rate": 0.518
+      },
+      {
+        "uci": "f8e7",
+        "san": "Be7",
+        "games": 40868,
+        "win_rate": 0.546
+      },
+      {
+        "uci": "d5c4",
+        "san": "dxc4",
+        "games": 34426,
+        "win_rate": 0.55
+      },
+      {
+        "uci": "h7h6",
+        "san": "h6",
+        "games": 15121,
+        "win_rate": 0.561
+      },
+      {
+        "uci": "f8b4",
+        "san": "Bb4+",
+        "games": 7340,
+        "win_rate": 0.576
+      },
+      {
+        "uci": "b8c6",
+        "san": "Nc6",
+        "games": 2870,
+        "win_rate": 0.536
+      },
+      {
+        "uci": "b7b6",
+        "san": "b6",
+        "games": 2460,
+        "win_rate": 0.585
+      },
+      {
+        "uci": "b8d7",
+        "san": "Nd7",
+        "games": 2265,
+        "win_rate": 0.547
+      }
+    ],
+    "move_sequence": "d4 d5 Nf3 e6 c4"
+  },
+  "rnbqkbnr/ppp2ppp/4p3/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3": {
+    "moves": [
+      {
+        "uci": "g8f6",
+        "san": "Nf6",
+        "games": 141397,
+        "win_rate": 0.544
+      },
+      {
+        "uci": "f8d6",
+        "san": "Bd6",
+        "games": 89393,
+        "win_rate": 0.524
+      },
+      {
+        "uci": "c7c5",
+        "san": "c5",
+        "games": 56320,
+        "win_rate": 0.543
+      },
+      {
+        "uci": "f7f5",
+        "san": "f5",
+        "games": 26779,
+        "win_rate": 0.544
+      },
+      {
+        "uci": "c7c6",
+        "san": "c6",
+        "games": 12116,
+        "win_rate": 0.573
+      },
+      {
+        "uci": "f8e7",
+        "san": "Be7",
+        "games": 4057,
+        "win_rate": 0.56
+      },
+      {
+        "uci": "a7a6",
+        "san": "a6",
+        "games": 2095,
+        "win_rate": 0.549
+      },
+      {
+        "uci": "b8d7",
+        "san": "Nd7",
+        "games": 1520,
+        "win_rate": 0.542
+      },
+      {
+        "uci": "b8c6",
+        "san": "Nc6",
+        "games": 1051,
+        "win_rate": 0.568
+      },
+      {
+        "uci": "g8e7",
+        "san": "Ne7",
+        "games": 790,
+        "win_rate": 0.534
+      },
+      {
+        "uci": "h7h6",
+        "san": "h6",
+        "games": 778,
+        "win_rate": 0.557
+      },
+      {
+        "uci": "b7b6",
+        "san": "b6",
+        "games": 651,
+        "win_rate": 0.594
+      }
+    ],
+    "move_sequence": "d4 d5 Nf3 e6 Bf4"
+  }
+}
